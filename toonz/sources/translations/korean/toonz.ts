@@ -3998,27 +3998,27 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Snap</source>
-        <translation>Einrasten</translation>
+        <translation>스냅</translation>
     </message>
     <message>
         <source>Auto Select Drawing</source>
-        <translation>Ebene automatisch wählen</translation>
+        <translation>자동 선택 그리기</translation>
     </message>
     <message>
         <source>Auto Fill</source>
-        <translation>Automatisches Füllen</translation>
+        <translation>자동 채우기</translation>
     </message>
     <message>
         <source>Join Vectors</source>
-        <translation>Vektoren vereinen</translation>
+        <translation>벡터 연결</translation>
     </message>
     <message>
         <source>Show Only Active Skeleton</source>
-        <translation>Nur aktives Skelett anzeigen</translation>
+        <translation>활성화된 골격만 보기</translation>
     </message>
     <message>
         <source>Brush Preset</source>
-        <translation>Pinsel-Vorlagen</translation>
+        <translation>브러시 사전 설정</translation>
     </message>
     <message>
         <source>Geometric Shape</source>
@@ -4030,7 +4030,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation> Modus</translation>
+        <translation>모드</translation>
     </message>
     <message>
         <source>Areas Mode</source>
@@ -4046,7 +4046,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>타입</translation>
     </message>
     <message>
         <source>Normal Type</source>
@@ -4066,51 +4066,51 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>TypeTool Font</source>
-        <translation>Schriftart für Schreib-Tool</translation>
+        <translation>문자 도구 글꼴</translation>
     </message>
     <message>
         <source>TypeTool Size</source>
-        <translation>Größe für Schreib-Tool</translation>
+        <translation>문자 도구 크기</translation>
     </message>
     <message>
         <source>TypeTool Style</source>
-        <translation>Stil für Schreib-Tool</translation>
+        <translation>문자 도구 양식</translation>
     </message>
     <message>
         <source>Active Axis</source>
-        <translation></translation>
+        <translation type="unfinished">활성축</translation>
     </message>
     <message>
         <source>Active Axis - Position</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 위치</translation>
     </message>
     <message>
         <source>Active Axis - Rotation</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 회전</translation>
     </message>
     <message>
         <source>Active Axis - Scale</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 비율</translation>
     </message>
     <message>
         <source>Active Axis - Shear</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 기울기</translation>
     </message>
     <message>
         <source>Active Axis - Center</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 중심점</translation>
     </message>
     <message>
         <source>Build Skeleton Mode</source>
-        <translation>Skelett-Erstellungs-Modus</translation>
+        <translation>골격 생성 모드</translation>
     </message>
     <message>
         <source>Animate Mode</source>
-        <translation>Animations Modus</translation>
+        <translation>애니메이션 모드</translation>
     </message>
     <message>
         <source>Inverse Kinematics Mode</source>
-        <translation>Inverse Kinematics（IK) Modus</translation>
+        <translation>역운동학（IK) 모드</translation>
     </message>
     <message>
         <source>None Pick Mode</source>
@@ -4126,15 +4126,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Reset Step</source>
-        <translation>Schritt zurücksetzen (&amp;R)</translation>
+        <translation>스텝 리셋 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Increase Step</source>
-        <translation>Schritt erhöhen (&amp;I)</translation>
+        <translation>스텝 늘리기 (&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Decrease Step</source>
-        <translation>Schritt verringern (&amp;D)</translation>
+        <translation>스텝 줄이기 (&amp;D)</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -4170,11 +4170,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Guide</source>
-        <translation>Hilfslinie (&amp;G)</translation>
+        <translation>안내선 (&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Ruler</source>
-        <translation>Lineal (&amp;R)</translation>
+        <translation>눈금자 (&amp;R)</translation>
     </message>
     <message>
         <source>Next Drawing</source>
@@ -4286,11 +4286,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Plastic Tool</source>
-        <translation>Plastik-Tool</translation>
+        <translation>조형 도구</translation>
     </message>
     <message>
         <source>Create Mesh</source>
-        <translation>Mesh erstellen</translation>
+        <translation>메쉬 생성</translation>
     </message>
     <message>
         <source>&amp;Merge Tlv Levels...</source>
@@ -4314,11 +4314,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Next Step</source>
-        <translation>1 Schritt weiter</translation>
+        <translation>1 다음 스텝</translation>
     </message>
     <message>
         <source>Prev Step</source>
-        <translation>1 Schritt zurück</translation>
+        <translation>1 이전 스텝</translation>
     </message>
     <message>
         <source>Untitled</source>
@@ -4338,11 +4338,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Xsheet</source>
-        <translation>Aufnahme/Xsheet</translation>
+        <translation>타임 시트</translation>
     </message>
     <message>
         <source>&amp;Load Recent Image Files</source>
-        <translation>Vorheriges Bild laden(&amp;L)</translation>
+        <translation>최근 이미지 파일 불러오기(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Clear Recent FlipboOk Image List</source>
@@ -4350,7 +4350,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Preview Fx</source>
-        <translation>Effekt-Vorschau</translation>
+        <translation>특수 효과 미리보기</translation>
     </message>
     <message>
         <source>&amp;Insert Paste</source>
@@ -4370,31 +4370,31 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Get Color from Studio Palette</source>
-        <translation>Farbe aus Studio-Palette beziehen</translation>
+        <translation>스튜디오 팔레트에서 색상 가져오기</translation>
     </message>
     <message>
         <source>&amp;Opacity Check</source>
-        <translation>Opazitäts-Check (&amp;O)</translation>
+        <translation>불투명도 확인 (&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Replace Parent Directory...</source>
-        <translation>Hauptverzeichnispfad ersetzen (&amp;R)...</translation>
+        <translation>상위 디렉토리 변경 (&amp;R)...</translation>
     </message>
     <message>
         <source>1&apos;s</source>
-        <translation>1er Frame</translation>
+        <translation>프레임 1</translation>
     </message>
     <message>
         <source>2&apos;s</source>
-        <translation>2er Frames</translation>
+        <translation>프레임 2</translation>
     </message>
     <message>
         <source>3&apos;s</source>
-        <translation>3er Frames</translation>
+        <translation>프레임 3</translation>
     </message>
     <message>
         <source>4&apos;s</source>
-        <translation>4er Frames</translation>
+        <translation>프레임 4</translation>
     </message>
     <message>
         <source>&amp;Ink#1 Check</source>
@@ -4402,7 +4402,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Compare to Snapshot</source>
-        <translation>Mit Schnappschuss vergleichen</translation>
+        <translation>스냅샷과 비교</translation>
     </message>
     <message>
         <source>Show This Only</source>
@@ -4414,7 +4414,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>Alle anzeigen</translation>
+        <translation>모두 보기</translation>
     </message>
     <message>
         <source>Hide Selected</source>
@@ -4422,11 +4422,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation>Alle verbergen</translation>
+        <translation>모두 숨기기</translation>
     </message>
     <message>
         <source>Toggle Show/Hide</source>
-        <translation>Ansicht umschalten</translation>
+        <translation>토글 보기/숨기기</translation>
     </message>
     <message>
         <source>ON This Only</source>
@@ -4482,71 +4482,71 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Ruler Tool</source>
-        <translation>Lineal-Tool</translation>
+        <translation>눈금자 도구</translation>
     </message>
     <message>
         <source>Finger Tool</source>
-        <translation>Finger-Tool</translation>
+        <translation>손가락 도구</translation>
     </message>
     <message>
         <source>Brush size - Increase max</source>
-        <translation>Pinselgröße - Maximum erhöhen</translation>
+        <translation>브러시 크기 - 키우기 최대</translation>
     </message>
     <message>
         <source>Brush size - Decrease max</source>
-        <translation>Pinselgröße - Maximum verringern</translation>
+        <translation>브러시 크기 - 줄이기 최대</translation>
     </message>
     <message>
         <source>Brush size - Increase min</source>
-        <translation>Pinselgröße - Minimum erhöhen</translation>
+        <translation>브러시 크기 - 키우기 최소</translation>
     </message>
     <message>
         <source>Brush size - Decrease min</source>
-        <translation>Pinselgröße - Minimum verringern</translation>
+        <translation>브러시 크기 - 줄이기 최소</translation>
     </message>
     <message>
         <source>Brush hardness - Increase</source>
-        <translation>Pinselhärte - erhöhen</translation>
+        <translation>브러시 경도 - 키우기</translation>
     </message>
     <message>
         <source>Brush hardness - Decrease</source>
-        <translation>Pinselhärte - verringern</translation>
+        <translation>브러시 경도 - 줄이기</translation>
     </message>
     <message>
         <source>Mode - Areas</source>
-        <translation> Modus - Flächen</translation>
+        <translation>모드 - 영역</translation>
     </message>
     <message>
         <source>Mode - Lines</source>
-        <translation> Modus - Linien</translation>
+        <translation>모드 - 선</translation>
     </message>
     <message>
         <source>Mode - Lines &amp; Areas</source>
-        <translation> Modus - Linien und Flächen</translation>
+        <translation>모드 - 선과 영역</translation>
     </message>
     <message>
         <source>Type - Normal</source>
-        <translation>Typ - Standard</translation>
+        <translation>타입 - 표준</translation>
     </message>
     <message>
         <source>Type - Rectangular</source>
-        <translation>Typ - Rechteckig</translation>
+        <translation>타입 - 사각형</translation>
     </message>
     <message>
         <source>Type - Freehand</source>
-        <translation>Typ - Freihand</translation>
+        <translation>타입 - 자유선</translation>
     </message>
     <message>
         <source>Type - Polyline</source>
-        <translation>Typ - Polygon</translation>
+        <translation>타입 - 폴리라인</translation>
     </message>
     <message>
         <source>About OpenToonz</source>
-        <translation>Über OpenToonz</translation>
+        <translation>오픈툰즈 정보</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>&amp;Abount OpenToonz...</source>
@@ -4554,15 +4554,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;ComboViewer</source>
-        <translation>Betrachter (&amp;C)</translation>
+        <translation>&amp;ComboViewer</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>Verlauf (&amp;H)</translation>
+        <translation>히스토리 (&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 저장 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Clear Recent Flipbook Image List</source>
@@ -4582,19 +4582,19 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;About OpenToonz...</source>
-        <translation type="unfinished"></translation>
+        <translation>오픈툰즈 정보 (&amp;A)...</translation>
     </message>
     <message>
         <source>Hook Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>갈고리 도구</translation>
     </message>
     <message>
         <source>&amp;Save All Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 레벨 저장 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Camera Capture...</source>
-        <translation type="unfinished"></translation>
+        <translation>카메라 캡처 (&amp;C)...</translation>
     </message>
     <message>
         <source>Toggle Maximize Panel</source>
@@ -4606,7 +4606,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Onion Skin Toggle</source>
-        <translation type="unfinished">Onion Skin umschalten</translation>
+        <translation>어니언 스킨 토글</translation>
     </message>
     <message>
         <source>Zero Thick Lines</source>
@@ -4618,19 +4618,19 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Pressure Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>압력 감도</translation>
     </message>
     <message>
         <source>Toggle Link to Studio Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>토글 스튜디오 팔레트 링크</translation>
     </message>
     <message>
         <source>Remove Reference to Studio Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>스튜디오 팔레트에 대한 참조 삭제</translation>
     </message>
     <message>
         <source>&amp;Startup Popup...</source>
-        <translation type="unfinished"></translation>
+        <translation>시작 팝업 (&amp;S)...</translation>
     </message>
 </context>
 <context>
@@ -4653,11 +4653,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>적용</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Apply Match Lines</source>
@@ -4712,7 +4712,7 @@ Füllen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>%1 Menu Bar</source>
@@ -5199,7 +5199,7 @@ Was möchten Sie tun?</translation>
     <name>OverwriteDialog</name>
     <message>
         <source>Warning!</source>
-        <translation>Warnung: </translation>
+        <translation>경고!</translation>
     </message>
     <message>
         <source>Keep existing file</source>
@@ -5215,15 +5215,15 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>적용</translation>
     </message>
     <message>
         <source>Apply to All</source>
-        <translation>An alle anwenden</translation>
+        <translation>모두 적용</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>File %1 already exists.
@@ -5256,7 +5256,7 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Overwrite</source>
-        <translation>Überschreiben</translation>
+        <translation>덮어쓰기</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -5265,8 +5265,8 @@ Was möchten Sie tun?</translation>
     <message>
         <source>File &quot;%1&quot; already exists.
 Do you want to overwrite it?</source>
-        <translation>Datei &quot;%1&quot;existiert bereits.
-Überschreiben?</translation>
+        <translation>파일 &quot;%1&quot;이(가) 이미 존재합니다.
+덮어쓰기 하시겠습니까?</translation>
     </message>
 </context>
 <context>
@@ -6475,7 +6475,6 @@ Was möchten Sie tun?</translation>
         <source>Deleting %n files. Are you sure?</source>
         <translation>
             <numerusform>%n Dateien zum Löschen. Sind Sie sich sicher?</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>

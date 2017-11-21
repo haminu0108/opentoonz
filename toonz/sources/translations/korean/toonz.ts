@@ -8002,7 +8002,7 @@ The audio file will not be included in the rendered clip.</source>
     <message>
         <source>File not found
 </source>
-        <translation>Datei nicht gefunden
+        <translation>파일을 찾을 수 없습니다
 </translation>
     </message>
 </context>
@@ -8010,276 +8010,276 @@ The audio file will not be included in the rendered clip.</source>
     <name>ReplaceParentDirectoryPopup</name>
     <message>
         <source>Replace Parent Directory</source>
-        <translation>Hauptverzeichnis ersetzen</translation>
+        <translation>부모 디렉토리 교체</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Ersetzen</translation>
+        <translation>교체</translation>
     </message>
     <message>
         <source>Nothing to replace: no cells or columns selected.</source>
-        <translation>Es gibt  nichts zum ersetzen: Es wurden weder Cells noch Spalten gewählt.</translation>
+        <translation>교체할 내용이 없습니다: 선택된 셀이나 열이 없습니다.</translation>
     </message>
 </context>
 <context>
     <name>RoomTabWidget</name>
     <message>
         <source>New Room</source>
-        <translation>Neue Arbeitsfläche</translation>
+        <translation>새 방</translation>
     </message>
     <message>
         <source>Delete Room</source>
-        <translation type="vanished">Arbeitsfläche löschen</translation>
+        <translation type="vanished">방 삭제</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation>Arbeitsfläche</translation>
+        <translation>방</translation>
     </message>
     <message>
         <source>Are you sure you want to remove room %1</source>
-        <translation>Sind Sie sich sicher, dass Sie Arbeitsfläche %1 löschen möchten?</translation>
+        <translation>방 %1을 삭제할까요?</translation>
     </message>
     <message>
         <source>Delete Room &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>방 %1 삭제 </translation>
     </message>
     <message>
         <source>Customize Menu Bar of Room &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>방 %1 메뉴바 설정하기 </translation>
     </message>
 </context>
 <context>
     <name>Ruler</name>
     <message>
         <source>Click to create an horizontal guide</source>
-        <translation>[Click] Horizontale Hilfslinie erstellen</translation>
+        <translation>수평 가이드를 생성하려면 클릭</translation>
     </message>
     <message>
         <source>Click to create a vertical guide</source>
-        <translation>[Click] Vertikale Hilfslinie erstellen</translation>
+        <translation>수직 가이드를 생성하려면 클릭</translation>
     </message>
     <message>
         <source>Click and drag to move guide</source>
-        <translation>[Ziehen] Hilfslinie verschieben</translation>
+        <translation>가이드를 움직이려면 클릭 후 드래그하세요</translation>
     </message>
 </context>
 <context>
     <name>SVNCleanupDialog</name>
     <message>
         <source>Version Control: Cleanup</source>
-        <translation>Versionskontrolle: Säubern</translation>
+        <translation>버전 제어: 클린업</translation>
     </message>
     <message>
         <source>Cleaning up %1...</source>
-        <translation>%1  wird gesäubert...</translation>
+        <translation>%1 클린업 작업중</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Cleanup done.</source>
-        <translation>Säubern beendet.</translation>
+        <translation>클린업 완료.</translation>
     </message>
 </context>
 <context>
     <name>SVNCommitDialog</name>
     <message>
         <source>Version Control: Put changes</source>
-        <translation>Versionskontrolle: Änderungen ersetzen</translation>
+        <translation>버전 제어: 변경 사항 추가</translation>
     </message>
     <message>
         <source>Select / Deselect All</source>
-        <translation>Alles wählen/Auswahl aufheben</translation>
+        <translation>모두 선택/모두 선택 취소</translation>
     </message>
     <message>
         <source>0 Selected / 0 Total</source>
-        <translation>0 gewählt / 0 gesamt</translation>
+        <translation>0 선택됨 / 0 총</translation>
     </message>
     <message>
         <source>Getting repository status...</source>
-        <translation>Repository-Status wird ermittelt...</translation>
+        <translation>저장소 상태 가져오는 중...</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation>Kommentar:</translation>
+        <translation>주석:</translation>
     </message>
     <message>
         <source>Put Scene Contents</source>
-        <translation>Szenen-Inhalt eintragen</translation>
+        <translation>씬 내용 넣기</translation>
     </message>
     <message>
         <source>Put</source>
-        <translation>Eintragung</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Adding %1 items...</source>
-        <translation>%1 Posten werden hinzugefügt...</translation>
+        <translation>%1 아이템 추가중...</translation>
     </message>
     <message>
         <source>Set needs-lock property...</source>
-        <translation>&quot;Sperre nötig&quot;-Eigenschaft setzen...</translation>
+        <translation>잠금 속성을 설정해야 합니다...</translation>
     </message>
     <message>
         <source>Committing %1 items...</source>
-        <translation>%1 Posten werden übergeben...</translation>
+        <translation>%1 아이템 커밋중...</translation>
     </message>
     <message>
         <source>Put done successfully.</source>
-        <translation>Eintragung beendet.</translation>
+        <translation>추가 작업 성공적으로 완료.</translation>
     </message>
     <message>
         <source>Putting %1 items...</source>
-        <translation>%1 Posten werden eingetragen...</translation>
+        <translation>%1 아이템들 추가중...</translation>
     </message>
     <message>
         <source>No items to put.</source>
-        <translation>Es gibt keine Posten zum eintragen.</translation>
+        <translation>추가할 아이템이 없습니다.</translation>
     </message>
     <message>
         <source>%1 items to put.</source>
-        <translation>Es gibt %1 Posten zum eintragen.</translation>
+        <translation>추가할 아이템이 %1 남았습니다.</translation>
     </message>
     <message>
         <source>%1 Selected / %2 Total</source>
-        <translation>%1 gewählt / %2 gesamt</translation>
+        <translation>%1 선택됨 / 총 %2</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation>취소</translation>
     </message>
 </context>
 <context>
     <name>SVNCommitFrameRangeDialog</name>
     <message>
         <source>Version Control: Put</source>
-        <translation>Versionskontrolle: Eintragen</translation>
+        <translation>버전 제어: 추가</translation>
     </message>
     <message>
         <source>Note: the file will be updated too.</source>
-        <translation>Vorsicht: Die Datei wird auch aktualisiert.</translation>
+        <translation>알림: 파일 또한 업데이트 됩니다.</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation>Kommentar:</translation>
+        <translation>주석:</translation>
     </message>
     <message>
         <source>Put</source>
-        <translation>Eintragung</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Put done successfully.</source>
-        <translation>Eintragung beendet.</translation>
+        <translation>추가 작업 성공적으로 완료.</translation>
     </message>
     <message>
         <source>Locking file...</source>
-        <translation>Datei wird gesperrt...</translation>
+        <translation>파일 잠금 중...</translation>
     </message>
     <message>
         <source>Getting frame range edit information...</source>
-        <translation>Frame-Bereich-Bearbeitungs-Information wird ermittelt...</translation>
+        <translation>프레임 범위 편집 정보 가져오는 중...</translation>
     </message>
     <message>
         <source>No frame range edited.</source>
-        <translation>Es wurde kein Frame-Bereich bearbeitet.</translation>
+        <translation>편집된 프레임 범위가 없습니다.</translation>
     </message>
     <message>
         <source>Updating frame range edit information...</source>
-        <translation>Frame-Bereich-Bearbeitungs-Information werden aktualisiert...</translation>
+        <translation>프레임 범위 편집 정보 업데이트중...</translation>
     </message>
     <message>
         <source>Putting changes...</source>
-        <translation>Änderungen werden eingetragen...</translation>
+        <translation>변경사항 추가중...</translation>
     </message>
     <message>
         <source>Updating file...</source>
-        <translation>Datei wird aktualisiert...</translation>
+        <translation>파일 업데이트중...</translation>
     </message>
     <message>
         <source>Adding hoOk file to repository...</source>
-        <translation type="vanished">Haken-Datei wird zum Repository hinzugefügt...</translation>
+        <translation>저장소에 후크 파일 추가중...</translation>
     </message>
     <message>
         <source>Setting the needs-lock property to hoOk file...</source>
-        <translation type="vanished">Die &quot;Sperre nötig&quot;-Eigenschaft wird in der Haken-Datei eingestellt...</translation>
+        <translation>후크 파일의 잠금 속성 설정중...</translation>
     </message>
     <message>
         <source>Adding hook file to repository...</source>
-        <translation type="unfinished"></translation>
+        <translation>저장소에 후크 파일 추가중</translation>
     </message>
     <message>
         <source>Setting the needs-lock property to hook file...</source>
-        <translation type="unfinished"></translation>
+        <translation>후크 파일의 잠금 속성 설정 중</translation>
     </message>
 </context>
 <context>
     <name>SVNDeleteDialog</name>
     <message>
         <source>Version Control: Delete</source>
-        <translation>Versionskontrolle: Löschen</translation>
+        <translation>버전 제어: 삭제</translation>
     </message>
     <message>
         <source>Delete folder that contains %1 items.</source>
-        <translation>Ordner löschen der %1 Gegenstände enthält.</translation>
+        <translation>%1 아이템을 포함하는 폴더 삭제.</translation>
     </message>
     <message>
         <source>Delete empty folder.</source>
-        <translation>Leeren Ordner löschen.</translation>
+        <translation>빈 폴더 삭제.</translation>
     </message>
     <message>
         <source>Delete %1 items.</source>
-        <translation>%1 Gegenstände löschen.</translation>
+        <translation>%1 아이템들 삭제.</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation>Kommentar:</translation>
+        <translation>주석:</translation>
     </message>
     <message>
         <source>Delete Scene Contents</source>
-        <translation>Szenen-Inhalt löschen</translation>
+        <translation>씬 내용 삭제</translation>
     </message>
     <message>
         <source> Keep Local Copy</source>
-        <translation>Lokale Kopie behalten</translation>
+        <translation>로컬 복사내용 유지</translation>
     </message>
     <message>
         <source>Delete Local Copy </source>
-        <translation>Lokale Kopie löschen</translation>
+        <translation>로컬 복사내요 삭제</translation>
     </message>
     <message>
         <source>Delete on Server </source>
-        <translation>Datei auf dem Server löschen</translation>
+        <translation>서버에서 삭제</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Deleting %1 items...</source>
-        <translation>%1 Gegenstände werden gelöscht...</translation>
+        <translation>%1 아이템들 삭제중...</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Löschen</translation>
+        <translation>삭제</translation>
     </message>
     <message>
         <source>You are deleting items also on repository. Are you sure ?</source>
-        <translation>Es werden auch Gegenstände im Repository gelöscht. Sind Sie sich sicher?</translation>
+        <translation>저장소의 아이템도 삭제중입니다. 진행할까요?</translation>
     </message>
 </context>
 <context>
     <name>SVNFrameRangeLockInfoDialog</name>
     <message>
         <source>Version Control: Edit Info</source>
-        <translation>Versionskontrolle: Bearbeitungs-Information</translation>
+        <translation>버전 제어: Bearbeitungs-Information</translation>
     </message>
     <message>
         <source>Getting repository status...</source>

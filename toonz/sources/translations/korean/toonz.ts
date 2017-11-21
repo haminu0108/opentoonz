@@ -514,33 +514,33 @@ Do you want to continue?</source>
         <translation>Ok</translation>
     </message>
     <message>
-	    <source>There were errors opening the existing level &quot;%1&quot;.
+        <source>There were errors opening the existing level &quot;%1&quot;.
 
 Please choose to delete the existing level and create a new one
 when running the cleanup process.</source>
-	    <translation>기존 레벨 &quot;%1&quot;을(를) 여는 중에 오류가 발생했습니다.
-	    
-	    정리 프로세스를 실행할 때 기존 레벨을 삭제하고 새 레벨을 생성하도록 선택하십시오.</translation>
+        <translation>기존 레벨 &quot;%1&quot;을(를) 여는 중에 오류가 발생했습니다.
+
+정리 프로세스를 실행할 때 기존 레벨을 삭제하고 새 레벨을 생성하도록 선택하십시오.</translation>
     </message>
     <message>
-	    <source>Couldn't create directory &quot;%1&quot;</source>
-	    <translation></translation>
+        <source>Couldn&apos;t create directory &quot;%1&quot;</source>
+        <translation></translation>
     </message>
     <message>
-	    <source>Couldn't open &quot;%1&quot; for write</source>
-	    <translation></translation>
+        <source>Couldn&apos;t open &quot;%1&quot; for write</source>
+        <translation></translation>
     </message>
     <message>
-	    <source>Couldn't remove file &quot;%1&quot;</source>
-	    <translation></translation>
+        <source>Couldn&apos;t remove file &quot;%1&quot;</source>
+        <translation></translation>
     </message>
     <message>
-	    <source>View</source>
-	    <translation></translation>
+        <source>View</source>
+        <translation></translation>
     </message>
     <message>
-	    <source>Cleanup in progress</source>
-	    <translation></translation>
+        <source> : Cleanup in progress</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2225,7 +2225,7 @@ Do you want to overwrite it?</source>
     <message>
         <source>FX Browser</source>
         <translation>Neue Effekt</translation>
-   </message>
+    </message>
     <message>
         <source>Insert</source>
         <translation>Einfügen</translation>
@@ -4448,11 +4448,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>OFF Selected</source>
-	<translation>선택된 칼럼 끄기</translation>
+        <translation>선택된 칼럼 끄기</translation>
     </message>
     <message>
         <source>Swap ON/OFF</source>
-	<translation>켜기/끄기 전환</translation>
+        <translation>켜기/끄기 전환</translation>
     </message>
     <message>
         <source>Lock This Only</source>
@@ -6096,7 +6096,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>All imported images will use the same DPI</source>
-        <translation type>불러온 모든 이미지는 같은 DPI 사용</translation>
+        <translation>불러온 모든 이미지는 같은 DPI 사용</translation>
     </message>
     <message>
         <source>Import/Export</source>
@@ -6477,7 +6477,6 @@ What do you want to do? </source>
         <source>Deleting %n files. Are you sure?</source>
         <translation>
             <numerusform>%n의 파일을 삭제합니다. 실행할까요?</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -7881,7 +7880,7 @@ What would you like to do?</source>
     </message>
     <message>
         <source>&lt;custom&gt;</source>
-        <translation type="unfinished" >&lt;Eigenes&gt;</translation>
+        <translation type="unfinished">&lt;Eigenes&gt;</translation>
     </message>
     <message>
         <source>The file name already exists.

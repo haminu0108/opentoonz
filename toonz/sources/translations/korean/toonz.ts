@@ -514,14 +514,35 @@ Do you want to continue?</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <source>There were errors opening the existing level &quot;%1&quot;.
+	    <source>There were errors opening the existing level &quot;%1&quot;.
 
 Please choose to delete the existing level and create a new one
 when running the cleanup process.</source>
-        <translation>기존 레벨 &quot;%1&quot;을 (를) 여는 중에 오류가 발생했습니다.
-
-          정리 프로세스를 실행할 때 기존 레벨을 삭제하고 새 레벨을 생성하도록 선택하십시오.
-        </translation>
+	    <translation>기존 레벨 &quot;%1&quot;을(를) 여는 중에 오류가 발생했습니다.
+	    
+	    정리 프로세스를 실행할 때 기존 레벨을 삭제하고 새 레벨을 생성하도록 선택하십시오.</translation>
+    </message>
+    <message>
+	    <source>Couldn't create directory &quot;%1&quot;</source>
+	    <translation></translation>
+    </message>
+    <message>
+	    <source>Couldn't open &quot;%1&quot; for write</source>
+	    <translation></translation>
+    </message>
+    <message>
+	    <source>Couldn't remove file &quot;%1&quot;</source>
+	    <translation></translation>
+    </message>
+    <message>
+	    <source>View</source>
+	    <translation></translation>
+    </message>
+    <message>
+	    <source>Cleanup in progress</source>
+	    <translation></translation>
+    </message>
+</context>
 <context>
     <name>CleanupPopup::OverwriteDialog</name>
     <message>

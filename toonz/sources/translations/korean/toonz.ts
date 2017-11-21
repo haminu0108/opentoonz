@@ -4022,11 +4022,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Geometric Shape</source>
-        <translation type="unfinished">Geometrische Form</translation>
+        <translation>도형</translation>
     </message>
     <message>
         <source>Geometric Edge</source>
-        <translation type="unfinished">Geometrische Kante</translation>
+        <translation>모서리</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -4114,15 +4114,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>None Pick Mode</source>
-        <translation type="unfinished">Nichts</translation>
+        <translation>비선택 모드</translation>
     </message>
     <message>
         <source>Column Pick Mode</source>
-        <translation type="unfinished">Spalte</translation>
+        <translation>칼럼 선택 모드</translation>
     </message>
     <message>
         <source>Pegbar Pick Mode</source>
-        <translation type="unfinished">Haltestift</translation>
+        <translation>페그 선택 모드</translation>
     </message>
     <message>
         <source>&amp;Reset Step</source>
@@ -4158,11 +4158,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Reload qss</source>
-        <translation type="unfinished">Stil-Xsheet neu Laden</translation>
+        <translation>스타일 시트 다시 불러오기</translation>
     </message>
     <message>
         <source>&amp;Autocenter...</source>
-        <translation type="unfinished">Automatisches Zentrieren (&amp;A)...</translation>
+        <translation>자동 위치 조정 (&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Field Guide in Capture Window</source>
@@ -4186,7 +4186,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Toggle Autofill on Current Palette Color</source>
-        <translation type="unfinished">Automatisches Füllen an aktueller Palette umschalten</translation>
+        <translation>현재 팔레트 색상으로 자동 채우기</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -4194,23 +4194,23 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Autorenumber</source>
-        <translation type="unfinished">Automatisches Umnummerieren (&amp;A)</translation>
+        <translation>자동 번호 지정 (&amp;A)</translation>
     </message>
     <message>
         <source>Shift and Trace</source>
-        <translation type="unfinished">Lichttisch</translation>
+        <translation>오프셋</translation>
     </message>
     <message>
         <source>Edit Shift</source>
-        <translation type="unfinished">Offset-Position ändern</translation>
+        <translation>오프셋 편집</translation>
     </message>
     <message>
         <source>No Shift</source>
-        <translation type="unfinished">Kein Offset</translation>
+        <translation>오프셋 숨기기</translation>
     </message>
     <message>
         <source>Reset Shift</source>
-        <translation type="unfinished">Offset zurücksetzen</translation>
+        <translation>오프셋 초기화</translation>
     </message>
     <message>
         <source>Increase max brush thickness</source>
@@ -4230,15 +4230,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Binarize...</source>
-        <translation type="unfinished">Binarisieren (&amp;B)...</translation>
+        <translation>이진화 (&amp;B)...</translation>
     </message>
     <message>
         <source>Pick Screen</source>
-        <translation type="unfinished">Bildschrim wählen</translation>
+        <translation>화면 지정</translation>
     </message>
     <message>
         <source>&amp;Blend colors</source>
-        <translation type="unfinished">Farben mischen (&amp;B)</translation>
+        <translation>색상 혼합 (&amp;B)</translation>
     </message>
     <message>
         <source>Linetest</source>
@@ -4254,15 +4254,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Run Script...</source>
-        <translation type="unfinished">Script ausführen...</translation>
+        <translation>스크립트 실행...</translation>
     </message>
     <message>
         <source>Open Script Console...</source>
-        <translation type="unfinished">Script-Konsole öffnen...</translation>
+        <translation>스크립트 콘솔 열기...</translation>
     </message>
     <message>
         <source>&amp;Antialias...</source>
-        <translation type="unfinished">Kantenglättung (&amp;A)...</translation>
+        <translation>안티얼라이징 (&amp;A)...</translation>
     </message>
     <message>
         <source>Adjust Levels...</source>
@@ -4270,7 +4270,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Raster Bounding Box</source>
-        <translation type="unfinished">Raster-Bounding-Box (&amp;R)</translation>
+        <translation>래스터 상자 (&amp;R)</translation>
     </message>
     <message>
         <source>Link FlipboOks</source>
@@ -4278,11 +4278,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Message Center</source>
-        <translation type="unfinished">Nachrichten-Center (&amp;M)</translation>
+        <translation>메시지 센터 (&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Cleanup Settings</source>
-        <translation type="unfinished">Säuberungs-Einstellungen (&amp;C)</translation>
+        <translation>선 따기 설정 (&amp;C)</translation>
     </message>
     <message>
         <source>Plastic Tool</source>
@@ -4294,7 +4294,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Merge Tlv Levels...</source>
-        <translation type="unfinished">TLV vereinen (&amp;M)...</translation>
+        <translation>Tlv 레벨 결합 (&amp;M)...</translation>
     </message>
     <message>
         <source>Adjust Thickness...</source>
@@ -4310,7 +4310,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Inks &amp;Only</source>
-        <translation type="unfinished">Nur Linien-Ansicht (&amp;O)</translation>
+        <translation>선만 보기 (&amp;O)</translation>
     </message>
     <message>
         <source>Next Step</source>
@@ -4322,11 +4322,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished">Unbenannt</translation>
+        <translation>이름 없음</translation>
     </message>
     <message>
         <source>Cleanup</source>
-        <translation type="unfinished">Säubern</translation>
+        <translation>선 따기</translation>
     </message>
     <message>
         <source>PltEdit</source>
@@ -4350,7 +4350,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Preview Fx</source>
-        <translation>특수 효과 미리보기</translation>
+        <translation>특수 효과 미리 보기</translation>
     </message>
     <message>
         <source>&amp;Insert Paste</source>
@@ -4406,11 +4406,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Show This Only</source>
-        <translation type="unfinished">Nur dies anzeigen</translation>
+        <translation>해당 칼럼만 보기</translation>
     </message>
     <message>
         <source>Show Selected</source>
-        <translation type="unfinished">Auswahl anzeigen</translation>
+        <translation>선택된 칼럼 보기</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -4418,7 +4418,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Hide Selected</source>
-        <translation type="unfinished">Auswahl verbergen</translation>
+        <translation>선택된 칼럼 숨기기</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -4430,11 +4430,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>ON This Only</source>
-        <translation type="unfinished">Nur dieses ist AN</translation>
+        <translation>해당 칼럼만 켜기</translation>
     </message>
     <message>
         <source>ON Selected</source>
-        <translation type="unfinished">Auswahl ist AN</translation>
+        <translation>선택된 칼럼 켜기</translation>
     </message>
     <message>
         <source>ON All</source>
@@ -4446,7 +4446,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>OFF Selected</source>
-        <translation type="unfinished">Auswahl ist AUS</translation>
+        <translation>선택된 칼럼 끄기</translation>
     </message>
     <message>
         <source>Swap ON/OFF</source>
@@ -4454,11 +4454,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Lock This Only</source>
-        <translation type="unfinished">Nur dieses sperren</translation>
+        <translation>해당 칼럼만 잠그기</translation>
     </message>
     <message>
         <source>Lock Selected</source>
-        <translation type="unfinished">Auswahl sperren</translation>
+        <translation>선택된 칼럼 잠그기</translation>
     </message>
     <message>
         <source>Lock All</source>
@@ -4466,7 +4466,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Unlock Selected</source>
-        <translation>Auswahl entsperren</translation>
+        <translation>선택된 칼럼 풀기</translation>
     </message>
     <message>
         <source>Unlock All</source>
@@ -4478,7 +4478,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Hide Upper Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>상위 칼럼 숨기기</translation>
     </message>
     <message>
         <source>Ruler Tool</source>
@@ -4566,15 +4566,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Clear Recent Flipbook Image List</source>
-        <translation type="unfinished"></translation>
+        <translation>최근 플립 북 이미지 목록 지우기 (&amp;C)</translation>
     </message>
     <message>
         <source>Toggle Edit in Place</source>
-        <translation type="unfinished"></translation>
+        <translation>편집 내용 보이기</translation>
     </message>
     <message>
         <source>Link Flipbooks</source>
-        <translation type="unfinished"></translation>
+        <translation>플립 북에 연결</translation>
     </message>
     <message>
         <source>&amp;Flipbook</source>

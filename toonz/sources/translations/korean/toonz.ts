@@ -4000,27 +4000,27 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Snap</source>
-        <translation>Einrasten</translation>
+        <translation>스냅</translation>
     </message>
     <message>
         <source>Auto Select Drawing</source>
-        <translation>Ebene automatisch wählen</translation>
+        <translation>자동 그림 선택</translation>
     </message>
     <message>
         <source>Auto Fill</source>
-        <translation>Automatisches Füllen</translation>
+        <translation>자동 채우기</translation>
     </message>
     <message>
         <source>Join Vectors</source>
-        <translation>Vektoren vereinen</translation>
+        <translation>벡터 연결</translation>
     </message>
     <message>
         <source>Show Only Active Skeleton</source>
-        <translation>Nur aktives Skelett anzeigen</translation>
+        <translation>활성화된 골격만 보기</translation>
     </message>
     <message>
         <source>Brush Preset</source>
-        <translation>Pinsel-Vorlagen</translation>
+        <translation>브러시 사전 설정</translation>
     </message>
     <message>
         <source>Geometric Shape</source>
@@ -4032,7 +4032,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation> Modus</translation>
+        <translation>모드</translation>
     </message>
     <message>
         <source>Areas Mode</source>
@@ -4048,7 +4048,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>타입</translation>
     </message>
     <message>
         <source>Normal Type</source>
@@ -4068,51 +4068,51 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>TypeTool Font</source>
-        <translation>Schriftart für Schreib-Tool</translation>
+        <translation>문자 도구 글꼴</translation>
     </message>
     <message>
         <source>TypeTool Size</source>
-        <translation>Größe für Schreib-Tool</translation>
+        <translation>문자 도구 크기</translation>
     </message>
     <message>
         <source>TypeTool Style</source>
-        <translation>Stil für Schreib-Tool</translation>
+        <translation>문자 도구 양식</translation>
     </message>
     <message>
         <source>Active Axis</source>
-        <translation></translation>
+        <translation type="unfinished">활성축</translation>
     </message>
     <message>
         <source>Active Axis - Position</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 위치</translation>
     </message>
     <message>
         <source>Active Axis - Rotation</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 회전</translation>
     </message>
     <message>
         <source>Active Axis - Scale</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 비율</translation>
     </message>
     <message>
         <source>Active Axis - Shear</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 기울기</translation>
     </message>
     <message>
         <source>Active Axis - Center</source>
-        <translation></translation>
+        <translation type="unfinished">활성축 - 중심점</translation>
     </message>
     <message>
         <source>Build Skeleton Mode</source>
-        <translation>Skelett-Erstellungs-Modus</translation>
+        <translation>골격 생성 모드</translation>
     </message>
     <message>
         <source>Animate Mode</source>
-        <translation>Animations Modus</translation>
+        <translation>애니메이션 모드</translation>
     </message>
     <message>
         <source>Inverse Kinematics Mode</source>
-        <translation>Inverse Kinematics（IK) Modus</translation>
+        <translation>역운동학（IK) 모드</translation>
     </message>
     <message>
         <source>None Pick Mode</source>
@@ -4128,15 +4128,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Reset Step</source>
-        <translation>Schritt zurücksetzen (&amp;R)</translation>
+        <translation>스텝 리셋 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Increase Step</source>
-        <translation>Schritt erhöhen (&amp;I)</translation>
+        <translation>스텝 늘리기 (&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Decrease Step</source>
-        <translation>Schritt verringern (&amp;D)</translation>
+        <translation>스텝 줄이기 (&amp;D)</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -4168,23 +4168,23 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Field Guide in Capture Window</source>
-        <translation>Praktische Anleitung im Capture-Fenster (&amp;F)</translation>
+        <translation>캡처 창에 필드 가이드(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Guide</source>
-        <translation>Hilfslinie (&amp;G)</translation>
+        <translation>안내선 (&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Ruler</source>
-        <translation>Lineal (&amp;R)</translation>
+        <translation>눈금자 (&amp;R)</translation>
     </message>
     <message>
         <source>Next Drawing</source>
-        <translation>Nächstes Bild</translation>
+        <translation>다음 도면</translation>
     </message>
     <message>
         <source>Prev Drawing</source>
-        <translation>Vorheriges Bild</translation>
+        <translation>이전 도면</translation>
     </message>
     <message>
         <source>Toggle Autofill on Current Palette Color</source>
@@ -4192,7 +4192,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>Exportieren (&amp;E)</translation>
+        <translation>내보내기 (&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Autorenumber</source>
@@ -4248,11 +4248,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Load As Sub-xsheet...</source>
-        <translation>Szene als Sub-Xsheet laden (&amp;L)...</translation>
+        <translation>서브 타임 시트로 불러오기 (&amp;L)...</translation>
     </message>
     <message>
         <source>&amp;Convert File...</source>
-        <translation>Datei umwandeln (&amp;C)...</translation>
+        <translation>파일 변환 (&amp;C)...</translation>
     </message>
     <message>
         <source>Run Script...</source>
@@ -4268,7 +4268,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Adjust Levels...</source>
-        <translation>Tonwertkorrektur anpassen...</translation>
+        <translation>레벨 조정...</translation>
     </message>
     <message>
         <source>&amp;Raster Bounding Box</source>
@@ -4284,15 +4284,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Cleanup Settings</source>
-        <translation>선 따기 설정 (&amp;C)</translation>
+        <translation>클린업 설정 (&amp;C)</translation>
     </message>
     <message>
         <source>Plastic Tool</source>
-        <translation>Plastik-Tool</translation>
+        <translation>조형 도구</translation>
     </message>
     <message>
         <source>Create Mesh</source>
-        <translation>Mesh erstellen</translation>
+        <translation>메쉬 생성</translation>
     </message>
     <message>
         <source>&amp;Merge Tlv Levels...</source>
@@ -4300,7 +4300,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Adjust Thickness...</source>
-        <translation>Dicke anpassen...</translation>
+        <translation>두께 조정...</translation>
     </message>
     <message>
         <source>Toggle &amp;Opacity Check</source>
@@ -4308,7 +4308,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Load Folder...</source>
-        <translation>Ordner laden (&amp;L)...</translation>
+        <translation>폴더 불러오기 (&amp;L)...</translation>
     </message>
     <message>
         <source>Inks &amp;Only</source>
@@ -4316,11 +4316,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Next Step</source>
-        <translation>1 Schritt weiter</translation>
+        <translation>다음 스텝</translation>
     </message>
     <message>
         <source>Prev Step</source>
-        <translation>1 Schritt zurück</translation>
+        <translation>이전 스텝</translation>
     </message>
     <message>
         <source>Untitled</source>
@@ -4328,23 +4328,23 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Cleanup</source>
-        <translation>선 따기</translation>
+        <translation>클린업</translation>
     </message>
     <message>
         <source>PltEdit</source>
-        <translation>Palette bearbeiten</translation>
+        <translation>팔레트 편집</translation>
     </message>
     <message>
         <source>InknPaint</source>
-        <translation>Einfärbung</translation>
+        <translation type="unfinished">Einfärbung</translation>
     </message>
     <message>
         <source>Xsheet</source>
-        <translation>Aufnahme/Xsheet</translation>
+        <translation>타임 시트</translation>
     </message>
     <message>
         <source>&amp;Load Recent Image Files</source>
-        <translation>Vorheriges Bild laden(&amp;L)</translation>
+        <translation>최근 이미지 파일 불러오기(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Clear Recent FlipboOk Image List</source>
@@ -4356,55 +4356,55 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Insert Paste</source>
-        <translation>Hinzufügen/Einfügen (&amp;I)</translation>
+        <translation type="unfinished">Hinzufügen/Einfügen (&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Paste Color &amp;&amp; Name</source>
-        <translation>Farbe und Name einfügen (&amp;P)</translation>
+        <translation type="unfinished">Farbe und Name einfügen (&amp;P)</translation>
     </message>
     <message>
         <source>Paste Color</source>
-        <translation>Farbe einfügen</translation>
+        <translation type="unfinished">Farbe einfügen</translation>
     </message>
     <message>
         <source>Paste Name</source>
-        <translation>Name einfügen</translation>
+        <translation type="unfinished">Name einfügen</translation>
     </message>
     <message>
         <source>Get Color from Studio Palette</source>
-        <translation>Farbe aus Studio-Palette beziehen</translation>
+        <translation>스튜디오 팔레트에서 색상 가져오기</translation>
     </message>
     <message>
         <source>&amp;Opacity Check</source>
-        <translation>Opazitäts-Check (&amp;O)</translation>
+        <translation>불투명도 확인 (&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Replace Parent Directory...</source>
-        <translation>Hauptverzeichnispfad ersetzen (&amp;R)...</translation>
+        <translation>상위 디렉토리 변경 (&amp;R)...</translation>
     </message>
     <message>
         <source>1&apos;s</source>
-        <translation>1er Frame</translation>
+        <translation>프레임 1</translation>
     </message>
     <message>
         <source>2&apos;s</source>
-        <translation>2er Frames</translation>
+        <translation>프레임 2</translation>
     </message>
     <message>
         <source>3&apos;s</source>
-        <translation>3er Frames</translation>
+        <translation>프레임 3</translation>
     </message>
     <message>
         <source>4&apos;s</source>
-        <translation>4er Frames</translation>
+        <translation>프레임 4</translation>
     </message>
     <message>
         <source>&amp;Ink#1 Check</source>
-        <translation>Tinten#1-Check (&amp;I)</translation>
+        <translation type="unfinished">Tinten#1-Check (&amp;I)</translation>
     </message>
     <message>
         <source>Compare to Snapshot</source>
-        <translation>Mit Schnappschuss vergleichen</translation>
+        <translation>스냅샷과 비교</translation>
     </message>
     <message>
         <source>Show This Only</source>
@@ -4416,7 +4416,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>Alle anzeigen</translation>
+        <translation>모두 보기</translation>
     </message>
     <message>
         <source>Hide Selected</source>
@@ -4424,11 +4424,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation>Alle verbergen</translation>
+        <translation>모두 숨기기</translation>
     </message>
     <message>
         <source>Toggle Show/Hide</source>
-        <translation>Ansicht umschalten</translation>
+        <translation>토글 보기/숨기기</translation>
     </message>
     <message>
         <source>ON This Only</source>
@@ -4464,7 +4464,7 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Lock All</source>
-        <translation>Alle sperren</translation>
+        <translation>모두 잠그기</translation>
     </message>
     <message>
         <source>Unlock Selected</source>
@@ -4472,11 +4472,11 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Unlock All</source>
-        <translation>Alle entsperren</translation>
+        <translation>모두 풀기</translation>
     </message>
     <message>
         <source>Swap Lock/Unlock</source>
-        <translation>Sperre umschalten</translation>
+        <translation>잠그기/풀기 전환</translation>
     </message>
     <message>
         <source>Hide Upper Columns</source>
@@ -4484,71 +4484,71 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Ruler Tool</source>
-        <translation>Lineal-Tool</translation>
+        <translation>눈금자 도구</translation>
     </message>
     <message>
         <source>Finger Tool</source>
-        <translation>Finger-Tool</translation>
+        <translation>손가락 도구</translation>
     </message>
     <message>
         <source>Brush size - Increase max</source>
-        <translation>Pinselgröße - Maximum erhöhen</translation>
+        <translation>브러시 크기 - 키우기 최대</translation>
     </message>
     <message>
         <source>Brush size - Decrease max</source>
-        <translation>Pinselgröße - Maximum verringern</translation>
+        <translation>브러시 크기 - 줄이기 최대</translation>
     </message>
     <message>
         <source>Brush size - Increase min</source>
-        <translation>Pinselgröße - Minimum erhöhen</translation>
+        <translation>브러시 크기 - 키우기 최소</translation>
     </message>
     <message>
         <source>Brush size - Decrease min</source>
-        <translation>Pinselgröße - Minimum verringern</translation>
+        <translation>브러시 크기 - 줄이기 최소</translation>
     </message>
     <message>
         <source>Brush hardness - Increase</source>
-        <translation>Pinselhärte - erhöhen</translation>
+        <translation>브러시 경도 - 키우기</translation>
     </message>
     <message>
         <source>Brush hardness - Decrease</source>
-        <translation>Pinselhärte - verringern</translation>
+        <translation>브러시 경도 - 줄이기</translation>
     </message>
     <message>
         <source>Mode - Areas</source>
-        <translation> Modus - Flächen</translation>
+        <translation>모드 - 영역</translation>
     </message>
     <message>
         <source>Mode - Lines</source>
-        <translation> Modus - Linien</translation>
+        <translation>모드 - 선</translation>
     </message>
     <message>
         <source>Mode - Lines &amp; Areas</source>
-        <translation> Modus - Linien und Flächen</translation>
+        <translation>모드 - 선과 영역</translation>
     </message>
     <message>
         <source>Type - Normal</source>
-        <translation>Typ - Standard</translation>
+        <translation>타입 - 표준</translation>
     </message>
     <message>
         <source>Type - Rectangular</source>
-        <translation>Typ - Rechteckig</translation>
+        <translation>타입 - 사각형</translation>
     </message>
     <message>
         <source>Type - Freehand</source>
-        <translation>Typ - Freihand</translation>
+        <translation>타입 - 자유선</translation>
     </message>
     <message>
         <source>Type - Polyline</source>
-        <translation>Typ - Polygon</translation>
+        <translation>타입 - 폴리라인</translation>
     </message>
     <message>
         <source>About OpenToonz</source>
-        <translation>Über OpenToonz</translation>
+        <translation>오픈툰즈 정보</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>&amp;Abount OpenToonz...</source>
@@ -4556,15 +4556,15 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;ComboViewer</source>
-        <translation>Betrachter (&amp;C)</translation>
+        <translation type="unfinished">&amp;ComboViewer</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>Verlauf (&amp;H)</translation>
+        <translation>히스토리 (&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 저장 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Clear Recent Flipbook Image List</source>
@@ -4580,59 +4580,59 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Flipbook</source>
-        <translation type="unfinished"></translation>
+        <translation>플립 북 (&amp;F)</translation>
     </message>
     <message>
         <source>&amp;About OpenToonz...</source>
-        <translation type="unfinished"></translation>
+        <translation>오픈툰즈 정보 (&amp;A)...</translation>
     </message>
     <message>
         <source>Hook Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>갈고리 도구</translation>
     </message>
     <message>
         <source>&amp;Save All Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 레벨 저장 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Camera Capture...</source>
-        <translation type="unfinished"></translation>
+        <translation>카메라 캡처 (&amp;C)...</translation>
     </message>
     <message>
         <source>Toggle Maximize Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>패널 최대화</translation>
     </message>
     <message>
         <source>Toggle Main Window&apos;s Full Screen Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>전체 화면 모드</translation>
     </message>
     <message>
         <source>Onion Skin Toggle</source>
-        <translation type="unfinished">Onion Skin umschalten</translation>
+        <translation>어니언 스킨 스위치</translation>
     </message>
     <message>
         <source>Zero Thick Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>굵기가 0인 선</translation>
     </message>
     <message>
         <source>Refresh Folder Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>폴더 구성 새로 고침</translation>
     </message>
     <message>
         <source>Pressure Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>압력 감도</translation>
     </message>
     <message>
         <source>Toggle Link to Studio Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>스튜디오 팔레트 링크</translation>
     </message>
     <message>
         <source>Remove Reference to Studio Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>스튜디오 팔레트에 대한 참조 삭제</translation>
     </message>
     <message>
         <source>&amp;Startup Popup...</source>
-        <translation type="unfinished"></translation>
+        <translation>시작 팝업 (&amp;S)...</translation>
     </message>
 </context>
 <context>
@@ -4651,54 +4651,54 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>Line Prevalence</source>
-        <translation>Linien-Intensität</translation>
+        <translation type="unfinished">Linien-Intensität</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>적용</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Apply Match Lines</source>
-        <translation>Match-Linien anwenden</translation>
+        <translation type="unfinished">Match-Linien anwenden</translation>
     </message>
     <message>
         <source>Add Match Line Inks</source>
-        <translation>Tinte für Match-Linien hinzufügen</translation>
+        <translation type="unfinished">Tinte für Match-Linien hinzufügen</translation>
     </message>
     <message>
         <source>Use Ink: </source>
-        <translation>Tinte benutzen :</translation>
+        <translation type="unfinished">Tinte benutzen :</translation>
     </message>
     <message>
         <source>Ink Usage</source>
-        <translation>Tinten-Gebrauch</translation>
+        <translation type="unfinished">Tinten-Gebrauch</translation>
     </message>
     <message>
         <source>Line Stacking Order</source>
-        <translation>Match-Linien-Stapel-Reihenfolge</translation>
+        <translation type="unfinished">Match-Linien-Stapel-Reihenfolge</translation>
     </message>
     <message>
         <source>L-Up R-Down</source>
-        <translation>L-Hoch R-Runter</translation>
+        <translation type="unfinished">L-Hoch R-Runter</translation>
     </message>
     <message>
         <source>L-Down R-Up</source>
-        <translation>L-Runter R-Hoch</translation>
+        <translation type="unfinished">L-Runter R-Hoch</translation>
     </message>
     <message>
         <source>Keep
 Halftone</source>
-        <translation>Halbton
+        <translation type="unfinished">Halbton
 beibehalten</translation>
     </message>
     <message>
         <source>Fill
 Gaps</source>
-        <translation>Lücken
+        <translation type="unfinished">Lücken
 Füllen</translation>
     </message>
 </context>
@@ -4706,100 +4706,101 @@ Füllen</translation>
     <name>MenuBarPopup</name>
     <message>
         <source>Customize Menu Bar of Room &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;의 도구 모음 사용자 정의</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>확인</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>%1 Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 메뉴 모음</translation>
     </message>
     <message>
         <source>Menu Items</source>
-        <translation type="unfinished"></translation>
+        <translation>메뉴 항목</translation>
     </message>
     <message>
         <source>N.B. If you put unique title to submenu, it may not be translated to another language.
 N.B. Duplicated commands will be ignored. Only the last one will appear in the menu bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>N.B. 하위 메뉴에 고유한 제목을 지정할 경우, 다른 언어로 번역되지 않을 수 있습니다.
+N.B. 중복된 명령은 무시됩니다. 마지막 명령만 메뉴 바에 표시됩니다.</translation>
     </message>
 </context>
 <context>
     <name>MenuBarTree</name>
     <message>
         <source>Insert Menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">메뉴 삽입</translation>
     </message>
     <message>
         <source>Insert Submenu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">하위 메뉴 삽입</translation>
     </message>
     <message>
         <source>Remove &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; 삭제</translation>
     </message>
     <message>
         <source>New Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>새 메뉴</translation>
     </message>
 </context>
 <context>
     <name>MergeCmappedCommand</name>
     <message>
         <source>It is not possible to merge tlv columns because no column was selected.</source>
-        <translation>TLV-Spalten können nicht vereint werden, da keine Spalten gewählt wurden.</translation>
+        <translation type="unfinished">TLV-Spalten können nicht vereint werden, da keine Spalten gewählt wurden.</translation>
     </message>
     <message>
         <source>It is not possible to merge tlv columns because at least two columns have to be selected.</source>
-        <translation>TLV-Spalten können nicht vereint werden, da mindestens zwei Spalten gewählt werden müssen.</translation>
+        <translation type="unfinished">TLV-Spalten können nicht vereint werden, da mindestens zwei Spalten gewählt werden müssen.</translation>
     </message>
     <message>
         <source>Merging Tlv Levels...</source>
-        <translation>TLV-Ebenen weden vereint...</translation>
+        <translation>Tlv 레벨 결합 중...</translation>
     </message>
 </context>
 <context>
     <name>MergeCmappedDialog</name>
     <message>
         <source>Save in:</source>
-        <translation>Speichern in:</translation>
+        <translation>저장 경로:</translation>
     </message>
     <message>
         <source>File Name:</source>
-        <translation>Dateiname:</translation>
+        <translation>파일명:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>적용</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>확인</translation>
     </message>
     <message>
         <source> Merge Tlv Levels</source>
-        <translation>TLV-Ebenen vereinen</translation>
+        <translation> Tlv 레벨 결합</translation>
     </message>
 </context>
 <context>
     <name>MergeColumnsCommand</name>
     <message>
         <source>It is not possible to execute the merge column command because no column was selected.</source>
-        <translation>Es können keine Spalten vereint werden, da keine Spalten gewählt wurden.</translation>
+        <translation type="unfinished">Es können keine Spalten vereint werden, da keine Spalten gewählt wurden.</translation>
     </message>
     <message>
         <source>It is not possible to execute the merge column command  because only one columns is  selected.</source>
-        <translation>Es können keine Spalten vereint werden, da nur eine Spalte gewählt wurde.</translation>
+        <translation type="unfinished">Es können keine Spalten vereint werden, da nur eine Spalte gewählt wurde.</translation>
     </message>
 </context>
 <context>
@@ -4807,94 +4808,93 @@ N.B. Duplicated commands will be ignored. Only the last one will appear in the m
     <message>
         <source>A level with the preferred path &quot;%1&quot; already exists.
 What do you want to do?</source>
-        <translation>Eine Ebene mit dem bevorzugten Pfad&quot;%1&quot; existiert bereits.
-Was möchten Sie tun?</translation>
+        <translation type="unfinished">지정된 경로 &quot;%1&quot;에 해당 레벨이 이미 존재합니다.
+어떻게 하시겠습니까?</translation>
     </message>
     <message>
         <source>Delete the old level entirely</source>
-        <translation>Die alte Ebene komplett entfernen
-</translation>
+        <translation type="unfinished">기존 레벨을 삭제</translation>
     </message>
     <message>
         <source>Keep the old level and overwrite processed frames</source>
-        <translation>Die alte Ebene behalten und bearbeitete Frames überschreiben</translation>
+        <translation type="unfinished">기존 레벨을 유지하며 작업한 프레임 덮어쓰기</translation>
     </message>
     <message>
         <source>Choose a different path (%1)</source>
-        <translation>Wählen Sie ein anderen Pfad (%1)</translation>
+        <translation type="unfinished">다른 경로 선택 (%1)</translation>
     </message>
     <message>
         <source>Create Mesh</source>
-        <translation>Mesh erstellen</translation>
+        <translation type="unfinished">메쉬 생성</translation>
     </message>
     <message>
         <source>Mesh Edges Length:</source>
-        <translation>Mesh-Kantenlänge:</translation>
+        <translation type="unfinished">Mesh-Kantenlänge:</translation>
     </message>
     <message>
         <source>Rasterization DPI:</source>
-        <translation>Rasterisierungs-DPI:</translation>
+        <translation type="unfinished">Rasterisierungs-DPI:</translation>
     </message>
     <message>
         <source>Mesh Margin (pixels):</source>
-        <translation>Mesh-Abstand（Pixel）:</translation>
+        <translation type="unfinished">Mesh-Abstand（Pixel）:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>적용</translation>
     </message>
     <message>
         <source>Mesh Creation in progress...</source>
-        <translation>Mesh wird erstellt...</translation>
+        <translation>메쉬 생성 중...</translation>
     </message>
     <message>
         <source>Current selection contains mixed image and mesh level types</source>
-        <translation>Die aktuelle Auswahl enthält gemischte Bild- und Ebenen-Typen</translation>
+        <translation type="unfinished">Die aktuelle Auswahl enthält gemischte Bild- und Ebenen-Typen</translation>
     </message>
     <message>
         <source>Current selection contains no image or mesh level types</source>
-        <translation>Die aktuelle Auswahl enthält keine Bild- und Ebenen-Typen</translation>
+        <translation type="unfinished">Die aktuelle Auswahl enthält keine Bild- und Ebenen-Typen</translation>
     </message>
 </context>
 <context>
     <name>MyScannerListener</name>
     <message>
         <source>Scanning in progress: </source>
-        <translation>Es wird gescanned:</translation>
+        <translation>스캔 중: </translation>
     </message>
     <message>
         <source>The scanning process is completed.</source>
-        <translation>Der Scan-Vorgang ist abgeschlossen.</translation>
+        <translation>스캔 작업이 완료되었습니다.</translation>
     </message>
     <message>
         <source>There was an error during the scanning process.</source>
-        <translation>Es trat ein Fehler während des Scan-Prozesses auf.</translation>
+        <translation>스캔 작업 중 오류가 발생하였습니다.</translation>
     </message>
     <message>
         <source>Please, place the next paper drawing on the scanner flatbed, then select the relevant command in the TWAIN interface.</source>
-        <translation>Legen Sie die nächste Seite auf den Scanner-Flatbed, und wählen Sie den entsprechenden Befehl im TWIN-Interface.</translation>
+        <translation>다음 도면을 스캐너에 놓고, TWAIN 인터페이스에서 실행시킬 명령을 선택하십시오.</translation>
     </message>
     <message>
         <source>Please, place the next paper drawing on the scanner flatbed, then click the Scan button.</source>
-        <translation>Legen Sie die nächste Seite auf den Scanner-Flatbed, und drücken Sie den Scan-Knopf-</translation>
+        <translation>다음 도면을 스캐너에 놓고, 스캔 버튼을 누르십시오.</translation>
     </message>
     <message>
         <source>The pixel type is not supported.</source>
-        <translation>Das Pixel-Format wird nicht unterstützt.</translation>
+        <translation>지원되지 않는 픽셀 유형입니다.</translation>
     </message>
 </context>
 <context>
     <name>MyViewFinder</name>
     <message>
         <source>Camera is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>카메라를 사용할 수 없습니다</translation>
     </message>
 </context>
 <context>
     <name>OutputSettingsPopup</name>
     <message>
         <source>Save in:</source>
-        <translation>Speichern in:</translation>
+        <translation>저장 경로:</translation>
     </message>
     <message>
         <source>File Name:</source>
@@ -4906,7 +4906,7 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Output Camera:</source>
-        <translation>Output-Kamera:</translation>
+        <translation type="unfinished">Output-Kamera:</translation>
     </message>
     <message>
         <source>To Frame:</source>
@@ -4918,23 +4918,23 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Shrink:</source>
-        <translation>Schrumpfen:</translation>
+        <translation type="unfinished">Schrumpfen:</translation>
     </message>
     <message>
         <source>Step:</source>
-        <translation>Schritt:</translation>
+        <translation type="unfinished">Schritt:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nichts</translation>
+        <translation type="unfinished">Nichts</translation>
     </message>
     <message>
         <source>Fx Schematic Flows</source>
-        <translation>Effekt-Schaubild Nodes</translation>
+        <translation type="unfinished">Effekt-Schaubild Nodes</translation>
     </message>
     <message>
         <source>Fx Schematic Terminal Nodes</source>
-        <translation>Effekt-Schaubild-Terminal-Nodes</translation>
+        <translation type="unfinished">Effekt-Schaubild-Terminal-Nodes</translation>
     </message>
     <message>
         <source>Multiple Rendering: </source>
@@ -4946,39 +4946,39 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>Standard</translation>
+        <translation type="unfinished">Standard</translation>
     </message>
     <message>
         <source>Improved</source>
-        <translation>Verbessert</translation>
+        <translation type="unfinished">Verbessert</translation>
     </message>
     <message>
         <source>High</source>
-        <translation>Hoch</translation>
+        <translation type="unfinished">Hoch</translation>
     </message>
     <message>
         <source>Resample Balance:</source>
-        <translation>Bild-Interpolations-Methode:</translation>
+        <translation type="unfinished">Bild-Interpolations-Methode:</translation>
     </message>
     <message>
         <source>Channel Width:</source>
-        <translation>Kanal-Breite:</translation>
+        <translation type="unfinished">Kanal-Breite:</translation>
     </message>
     <message>
         <source>Gamma:</source>
-        <translation>Gamma:</translation>
+        <translation type="unfinished">Gamma:</translation>
     </message>
     <message>
         <source>Odd (NTSC)</source>
-        <translation>Ungerade (NTSC)</translation>
+        <translation type="unfinished">Ungerade (NTSC)</translation>
     </message>
     <message>
         <source>Even (PAL)</source>
-        <translation>Gerade (PAL)</translation>
+        <translation type="unfinished">Gerade (PAL)</translation>
     </message>
     <message>
         <source>Dominant Field:</source>
-        <translation>Feld-Render:</translation>
+        <translation type="unfinished">Feld-Render:</translation>
     </message>
     <message>
         <source>to FPS:</source>
@@ -4986,59 +4986,59 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Stretch from FPS:</source>
-        <translation>FPS-Verschiebung von:</translation>
+        <translation type="unfinished">FPS-Verschiebung von:</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation>Einzeln</translation>
+        <translation type="unfinished">Einzeln</translation>
     </message>
     <message>
         <source>Half</source>
-        <translation>Halb</translation>
+        <translation type="unfinished">Halb</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Alles</translation>
+        <translation type="unfinished">Alles</translation>
     </message>
     <message>
         <source>Dedicated CPUs:</source>
-        <translation>Zugehörige CPUs:</translation>
+        <translation type="unfinished">Zugehörige CPUs:</translation>
     </message>
     <message>
         <source>Large</source>
-        <translation>Groß</translation>
+        <translation type="unfinished">Groß</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Mittel</translation>
+        <translation type="unfinished">Mittel</translation>
     </message>
     <message>
         <source>Small</source>
-        <translation>Klein</translation>
+        <translation type="unfinished">Klein</translation>
     </message>
     <message>
         <source>Render Tile:</source>
-        <translation>Render-Kachel:</translation>
+        <translation type="unfinished">Render-Kachel:</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Optionen</translation>
+        <translation>옵션</translation>
     </message>
     <message>
         <source>Use Sub-Camera</source>
-        <translation>Sub-Kamera verwenden</translation>
+        <translation>보조 카메라 사용</translation>
     </message>
     <message>
         <source>Apply Shrink to Main Viewer</source>
-        <translation>Schrumpfen am Haupt-Betrachter anwenden</translation>
+        <translation type="unfinished">Schrumpfen am Haupt-Betrachter anwenden</translation>
     </message>
     <message>
         <source>Preview Settings</source>
-        <translation>Vorschau-Einstellungen</translation>
+        <translation>설정 미리보기</translation>
     </message>
     <message>
         <source>Output Settings</source>
-        <translation>Output-Einstellungen</translation>
+        <translation>출력 설정</translation>
     </message>
     <message>
         <source>8 bits</source>
@@ -5054,7 +5054,7 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Camera Shift:</source>
-        <translation>Kamera-Verschiebung:</translation>
+        <translation type="unfinished">Kamera-Verschiebung:</translation>
     </message>
     <message>
         <source>Stereoscopic Render:</source>
@@ -5062,393 +5062,395 @@ Was möchten Sie tun?</translation>
     </message>
     <message>
         <source>Camera Settings</source>
-        <translation>KameraEinstellungen</translation>
+        <translation>카메라 설정</translation>
     </message>
     <message>
         <source>File Settings</source>
-        <translation>Datei-Einstellungen</translation>
+        <translation>파일 설정</translation>
     </message>
     <message>
         <source>Other Settings</source>
-        <translation>Andere einstellen</translation>
+        <translation>기타 설정</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hinzufügen</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Löschen</translation>
+        <translation>삭제</translation>
     </message>
     <message>
         <source>Triangle filter</source>
-        <translation>Dreieck-Filter</translation>
+        <translation type="unfinished">Dreieck-Filter</translation>
     </message>
     <message>
         <source>Mitchell-Netravali filter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cubic convolution, a = .5</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cubic convolution, a = .75</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cubic convolution, a = 1</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hann window, rad = 2</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hann window, rad = 3</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hamming window, rad = 2</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hamming window, rad = 3</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lanczos window, rad = 2</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lanczos window, rad = 3</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gaussian convolution</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Closest Pixel (Nearest Neighbor)</source>
-        <translation>Nächstes Pixel (Nächster Nachbar)</translation>
+        <translation type="unfinished">Nächstes Pixel (Nächster Nachbar)</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bilinear</translation>
+        <translation type="unfinished">Bilinear</translation>
     </message>
     <message>
         <source>8 bit</source>
-        <translation>8-bit</translation>
+        <translation>8 비트</translation>
     </message>
     <message>
         <source>16 bit</source>
-        <translation>16-bit</translation>
+        <translation>16 비트</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Vorgaben :</translation>
+        <translation>사전 설정:</translation>
     </message>
     <message>
         <source>Frame Start:</source>
-        <translation>Von Frame:</translation>
+        <translation>프레임 시작:</translation>
     </message>
     <message>
         <source>End:</source>
-        <translation>Zu Frame:</translation>
+        <translation>끝:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Dateiname:</translation>
+        <translation>파일명:</translation>
     </message>
     <message>
         <source>Frame Rate (linked to Scene Settings):</source>
-        <translation>FPS （Szenen-Einstellungen）:</translation>
+        <translation>프레임률 (장면 설정과 연결):</translation>
     </message>
     <message>
         <source>  To:</source>
-        <translation>Umwandlung zu:</translation>
+        <translation>  변환 후:</translation>
     </message>
     <message>
         <source>Multiple Rendering:</source>
-        <translation>Multipler Render:</translation>
+        <translation>다중 렌더링:</translation>
     </message>
     <message>
         <source>Add preset</source>
-        <translation>Vorgabe hinzufügen</translation>
+        <translation>사전 설정 추가</translation>
     </message>
     <message>
         <source>Enter the name for the output settings preset.</source>
-        <translation>Geben Sie den Namen für die Vorgabe der Output-Einstellungen an.</translation>
+        <translation>출력 사전 설정의 이름을 입력하십시오.</translation>
     </message>
     <message>
         <source>Add output settings preset</source>
-        <translation>Vorgabe für Output-Einstellungen hinzufügen</translation>
+        <translation>출력 사전 설정 추가</translation>
     </message>
     <message>
         <source>&lt;custom&gt;</source>
-        <translation>&lt;Eigenes&gt;</translation>
+        <translation>&lt;사용자 정의&gt;</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Vorgabe löschen</translation>
+        <translation>사전 설정 삭제</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Warnung</translation>
+        <translation>경고</translation>
     </message>
 </context>
 <context>
     <name>OverwriteDialog</name>
     <message>
         <source>Warning!</source>
-        <translation>Warnung: </translation>
+        <translation>경고!</translation>
     </message>
     <message>
         <source>Keep existing file</source>
-        <translation>Bestehende Datei behalten</translation>
+        <translation>기존 파일 유지</translation>
     </message>
     <message>
         <source>Overwrite the existing file with the new one</source>
-        <translation>Die bestehende Datei mit einer neuen Datei überschreiben</translation>
+        <translation>기존 파일을 새 파일로 덮어쓰기</translation>
     </message>
     <message>
         <source>Rename the new file adding the suffix</source>
-        <translation>Die neue Datei umbenennen und das Suffix hinzufügen</translation>
+        <translation>확장자를 추가해 파일명 새로 짓기</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>적용</translation>
     </message>
     <message>
         <source>Apply to All</source>
-        <translation>An alle anwenden</translation>
+        <translation>모두 적용</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>File %1 already exists.
 What do you want to do?</source>
-        <translation>Datei %1 existiert bereits.
-Was möchten Sie tun?</translation>
+        <translation>파일 %1이(가) 이미 존재합니다.
+어떻게 하시겠습니까?</translation>
     </message>
     <message>
         <source>The suffix field is empty. Please specify a suffix.</source>
-        <translation>Das Suffix-Feld ist leer. Bitte geben Sie ein Suffix an.
-</translation>
+        <translation>확장자명이 비어 있습니다. 확장자를 지정해 주십시오.</translation>
     </message>
     <message>
         <source>File %1 exists as well; please choose a different suffix.</source>
-        <translation>Datei %1 existiert bereits. Bitte wählen Sie ein anderes Suffix.</translation>
+        <translation>파일 %1이(가) 이미 존재합니다; 다른 확장자를 지정해 주십시오.</translation>
     </message>
     <message>
         <source>Level &quot;%1&quot; already exists.
 
 What do you want to do?</source>
-        <translation>Ebene &quot;%1&quot;existiert bereits.
-
-Was möchten Sie tun?</translation>
+        <translation>레벨 &quot;%1&quot;이(가) 이미 존재합니다.
+어떻게 하시겠습니까?</translation>
     </message>
     <message>
         <source>File &quot;%1&quot; already exists.
 What do you want to do?</source>
-        <translation>Datei&quot;%1&quot;existiert bereits.
-Was möchten Sie tun?</translation>
+        <translation>파일 &quot;%1&quot;이(가) 이미 존재합니다.
+어떻게 하시겠습니까?</translation>
     </message>
     <message>
         <source>Overwrite</source>
-        <translation>Überschreiben</translation>
+        <translation>덮어쓰기</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Überspringen</translation>
+        <translation>건너뛰기</translation>
     </message>
     <message>
         <source>File &quot;%1&quot; already exists.
 Do you want to overwrite it?</source>
-        <translation>Datei &quot;%1&quot;existiert bereits.
-Überschreiben?</translation>
+        <translation>파일 &quot;%1&quot;이(가) 이미 존재합니다.
+덮어쓰기 하시겠습니까?</translation>
     </message>
 </context>
 <context>
     <name>PencilTestPopup</name>
     <message>
         <source>Camera Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>카메라 캡처</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Aktualisieren</translation>
+        <translation>새로 고침</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Datei</translation>
+        <translation>파일</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Optionen</translation>
+        <translation>옵션</translation>
     </message>
     <message>
         <source>Save images as they are captured</source>
-        <translation type="unfinished"></translation>
+        <translation>캡처된 이미지 저장</translation>
     </message>
     <message>
         <source>Image adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 조정</translation>
     </message>
     <message>
         <source>Upside down</source>
-        <translation type="unfinished"></translation>
+        <translation>상하반전</translation>
     </message>
     <message>
         <source>Capture white BG</source>
-        <translation type="unfinished"></translation>
+        <translation>흰색 배경 캡처</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>표시</translation>
     </message>
     <message>
         <source>Show onion skin</source>
-        <translation type="unfinished"></translation>
+        <translation>어니언 스킨 보기</translation>
     </message>
     <message>
         <source>Interval timer</source>
-        <translation type="unfinished"></translation>
+        <translation>인터벌 타이머</translation>
     </message>
     <message>
         <source>Use interval timer</source>
-        <translation type="unfinished"></translation>
+        <translation>인터벌 타이머 사용</translation>
     </message>
     <message>
         <source>Capture
 [Return key]</source>
-        <translation type="unfinished"></translation>
+        <translation>캡처
+[Enter]</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>Next Level</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 레벨</translation>
     </message>
     <message>
         <source>Camera:</source>
-        <translation type="unfinished"></translation>
+        <translation>카메라:</translation>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished">Auflösung:</translation>
+        <translation>해상도:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>이름:</translation>
     </message>
     <message>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>프레임:</translation>
     </message>
     <message>
         <source>File Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 형식:</translation>
     </message>
     <message>
         <source>Save In:</source>
-        <translation type="unfinished">Speichern in:</translation>
+        <translation>저장 경로:</translation>
     </message>
     <message>
         <source>Color type:</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 타입:</translation>
     </message>
     <message>
         <source>Threshold:</source>
-        <translation type="unfinished">Schwellenwert:</translation>
+        <translation>한계값:</translation>
     </message>
     <message>
         <source>Contrast:</source>
-        <translation type="unfinished">Kontrast:</translation>
+        <translation>대비:</translation>
     </message>
     <message>
         <source>Brightness:</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기:</translation>
     </message>
     <message>
         <source>BG reduction:</source>
-        <translation type="unfinished"></translation>
+        <translation>배경 제거:</translation>
     </message>
     <message>
         <source>Opacity(%):</source>
-        <translation type="unfinished"></translation>
+        <translation>불투명도(%):</translation>
     </message>
     <message>
         <source>Interval(sec):</source>
-        <translation type="unfinished"></translation>
+        <translation>간격(sec):</translation>
     </message>
     <message>
         <source>No camera found</source>
-        <translation type="unfinished"></translation>
+        <translation>카메라 없음</translation>
     </message>
     <message>
         <source>- Select camera -</source>
-        <translation type="unfinished"></translation>
+        <translation>-카메라 선택-</translation>
     </message>
     <message>
         <source>Start Capturing
 [Return key]</source>
-        <translation type="unfinished"></translation>
+        <translation>캡처 시작
+[Enter]</translation>
     </message>
     <message>
         <source>Stop Capturing
 [Return key]</source>
-        <translation type="unfinished"></translation>
+        <translation>캡처 중지
+[Enter]</translation>
     </message>
     <message>
         <source>No level name specified: please choose a valid level name</source>
-        <translation type="unfinished">Der Name der Ebene wurde nicht festgelegt: Bitte einen gültigen Namen wählen.</translation>
+        <translation>지정된 레벨이 존재하지 않습니다: 유효한 레벨명을 지정하십시오</translation>
     </message>
     <message>
         <source>Folder %1 doesn&apos;t exist.
 Do you want to create it?</source>
-        <translation type="unfinished">Ordner %1 existiert nicht.
-Möchten Sie einen erstellen?</translation>
+        <translation>폴더 %1이(가) 존재하지 않습니다.
+해당 폴더를 생성하시겠습니까?</translation>
     </message>
     <message>
         <source>Unable to create</source>
-        <translation type="unfinished">Es konnte nicht erstellt werden.</translation>
+        <translation>생성 불가</translation>
     </message>
     <message>
         <source>The level name specified is already used: please choose a different level name.</source>
-        <translation type="unfinished"></translation>
+        <translation>지정된 레벨이 이미 존재합니다: 다른 레벨명을 지정하십시오.</translation>
     </message>
     <message>
         <source>The save in path specified does not match with the existing level.</source>
-        <translation type="unfinished"></translation>
+        <translation>지정된 저장 경로가 기존 레벨과 일치하지 않습니다.</translation>
     </message>
     <message>
         <source>The captured image size does not match with the existing level.</source>
-        <translation type="unfinished"></translation>
+        <translation>캡처된 이미지의 크기가 기존 레벨과 일치하지 않습니다.</translation>
     </message>
     <message>
         <source>File %1 does exist.
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 %1이(가) 이미 존재합니다?
+덮어쓰기 하시겠습니까?</translation>
     </message>
     <message>
         <source>Failed to load %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 불러오기 실패.</translation>
     </message>
     <message>
         <source>Video Capture Filter Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>비디오 캡처 필터 설정...</translation>
     </message>
 </context>
 <context>
     <name>PltGizmoPopup</name>
     <message>
         <source>Palette Gizmo</source>
-        <translation>Palette bearbeiten</translation>
+        <translation type="unfinished">Palette bearbeiten</translation>
     </message>
     <message>
         <source>Luminance:</source>
@@ -5468,7 +5470,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Fade to Color</source>
-        <translation>Zur Farbe verblassen</translation>
+        <translation type="unfinished">Zur Farbe verblassen</translation>
     </message>
     <message>
         <source>              Color:</source>
@@ -5476,62 +5478,62 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Fade</source>
-        <translation>Verblassen</translation>
+        <translation type="unfinished">Verblassen</translation>
     </message>
     <message>
         <source>Blend</source>
-        <translation>Füllung</translation>
+        <translation type="unfinished">Füllung</translation>
     </message>
     <message>
         <source>Full Matte</source>
-        <translation>Voller Hintergrund</translation>
+        <translation type="unfinished">Voller Hintergrund</translation>
     </message>
     <message>
         <source>Zero Matte</source>
-        <translation>Kein Hintergrund</translation>
+        <translation type="unfinished">Kein Hintergrund</translation>
     </message>
     <message>
         <source>Scale (%)</source>
-        <translation>Skalierung (%)</translation>
+        <translation type="unfinished">Skalierung (%)</translation>
     </message>
     <message>
         <source>Shift (value)</source>
-        <translation>Verschiebung (Wert)</translation>
+        <translation type="unfinished">Verschiebung (Wert)</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Helligkeitsgrad</translation>
+        <translation type="unfinished">Helligkeitsgrad</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Sättigung</translation>
+        <translation type="unfinished">Sättigung</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation>Farbton</translation>
+        <translation type="unfinished">Farbton</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation>Alpha</translation>
+        <translation type="unfinished">Alpha</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Farbe</translation>
+        <translation type="unfinished">Farbe</translation>
     </message>
 </context>
 <context>
     <name>PreferencesPopup</name>
     <message>
         <source>Preferences</source>
-        <translation>Einstellungen</translation>
+        <translation>환경 설정</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>표준</translation>
     </message>
     <message>
         <source>Use Default Viewer for Movie Formats</source>
-        <translation>Standard-Player für Film-Formate verwenden</translation>
+        <translation>동영상 형식에 기본 뷰어 사용</translation>
     </message>
     <message>
         <source>Minimize Raster Memory Fragmentation*</source>
@@ -5543,19 +5545,19 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Backup Animation Levels when Saving</source>
-        <translation>Beim Speichern ein Backup der Ebenen erstellen</translation>
+        <translation>저장할 때 애니메이션 레벨 백업</translation>
     </message>
     <message>
         <source>Cell-dragging Behaviour:</source>
-        <translation>Cell-Bewegungsverhalten:</translation>
+        <translation type="unfinished">Cell-Bewegungsverhalten:</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation>Interface</translation>
+        <translation>인터페이스</translation>
     </message>
     <message>
         <source>Style:</source>
-        <translation>Stil:</translation>
+        <translation>스타일:</translation>
     </message>
     <message>
         <source>Open FlipboOk after Rendering</source>
@@ -5563,11 +5565,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Unit:</source>
-        <translation>Einheit:</translation>
+        <translation>유닛:</translation>
     </message>
     <message>
         <source>Camera Unit:</source>
-        <translation>Kamera-Einheit:</translation>
+        <translation>카메라 유닛:</translation>
     </message>
     <message>
         <source>FlipboOk Shrink:</source>
@@ -5583,27 +5585,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Loading</source>
-        <translation>Laden</translation>
+        <translation>불러오는 중</translation>
     </message>
     <message>
         <source>Expose Loaded Levels in Xsheet</source>
-        <translation>Geladenen Ebenen in Xsheet anzeigen</translation>
+        <translation>타임 시트에 불러온 레벨 배치</translation>
     </message>
     <message>
         <source>Create Sub-folder when Importing Sub-xsheet</source>
-        <translation>Beim importieren von Sub-Xsheets Unterordner erstellen</translation>
+        <translation>서브 타임 시트 들여올 때 하위 폴더 생성</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation>Zeichnung</translation>
+        <translation>도면</translation>
     </message>
     <message>
         <source>Keep Original Cleaned Up Drawings As Backup</source>
-        <translation>Gesäuberte TLVs direkt als Backup speichern</translation>
+        <translation type="unfinished">Gesäuberte TLVs direkt als Backup speichern</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation>Animation</translation>
+        <translation>애니메이션</translation>
     </message>
     <message>
         <source>Default Interpolation: </source>
@@ -5611,35 +5613,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation>Linear</translation>
+        <translation>선형</translation>
     </message>
     <message>
         <source>Speed In / Speed Out</source>
-        <translation>Speed-In/Speed-Out</translation>
+        <translation type="unfinished">Speed-In/Speed-Out</translation>
     </message>
     <message>
         <source>Ease In / Ease Out</source>
-        <translation>Ease-In/Ease-Out</translation>
+        <translation type="unfinished">Ease-In/Ease-Out</translation>
     </message>
     <message>
         <source>Ease In / Ease Out %</source>
-        <translation>Ease-In/Ease-Out（%）</translation>
+        <translation type="unfinished">Ease-In/Ease-Out（%）</translation>
     </message>
     <message>
         <source>Animation Step:</source>
-        <translation>Animations-Schritt:</translation>
+        <translation>애니메이션 스텝:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Vorschau</translation>
+        <translation>미리 보기</translation>
     </message>
     <message>
         <source>Blank Frames:</source>
-        <translation>Leere Frames:</translation>
+        <translation>빈 프레임:</translation>
     </message>
     <message>
         <source>Blank Frames Color:</source>
-        <translation>Leere Frame-Farbe:</translation>
+        <translation>빈 프레임 색:</translation>
     </message>
     <message>
         <source>Display in a New FlipboOk Window</source>
@@ -5647,11 +5649,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Rewind after Playback</source>
-        <translation>Nach dem Abspielen zurückspulen</translation>
+        <translation>재생 후 되감기</translation>
     </message>
     <message>
         <source>Onion Skin</source>
-        <translation>Onion Skin</translation>
+        <translation>어니언 스킨</translation>
     </message>
     <message>
         <source>   Following Frames Correction: </source>
@@ -5663,23 +5665,23 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Display Lines Only </source>
-        <translation>Nur Linien anzeigen</translation>
+        <translation>선만 보기 </translation>
     </message>
     <message>
         <source>Version Control</source>
-        <translation>Versionskontrolle</translation>
+        <translation>버전 관리</translation>
     </message>
     <message>
         <source>Automatically Refresh Folder Contents</source>
-        <translation>Ordner-Inhalte automatisch aktualisieren</translation>
+        <translation>폴더 내용 자동 새로 고침</translation>
     </message>
     <message>
         <source>Cells Only</source>
-        <translation>Nur Xsheet Cells</translation>
+        <translation type="unfinished">Nur Xsheet Cells</translation>
     </message>
     <message>
         <source>Cells and Column Data</source>
-        <translation>Daten der Spalten und Reihen</translation>
+        <translation type="unfinished">Daten der Spalten und Reihen</translation>
     </message>
     <message>
         <source>Language*:</source>
@@ -5691,11 +5693,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Render Task Chunk Size:</source>
-        <translation>Stückgröße der Render-Aufgaben:</translation>
+        <translation type="unfinished">Stückgröße der Render-Aufgaben:</translation>
     </message>
     <message>
         <source>Show Info in Rendered Frames</source>
-        <translation>Informationen in gerenderten Frames anzeigen</translation>
+        <translation type="unfinished">렌더링된 프레임 내에 정보 표시</translation>
     </message>
     <message>
         <source>*Changes will take effect the next time you run Toonz</source>
@@ -5715,11 +5717,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>field</source>
-        <translation>Feld</translation>
+        <translation>필드</translation>
     </message>
     <message>
         <source>Xsheet Autopan during Playback</source>
-        <translation>Auto-Scroll beim Abspielen des Xsheets</translation>
+        <translation>재생 중 타임 시트 자동 스크롤</translation>
     </message>
     <message>
         <source>Level Strip Frames Width*:</source>
@@ -5735,11 +5737,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Scan File Format:</source>
-        <translation>Scan-Datei-Format:</translation>
+        <translation>스캔 파일 형식:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Breite:</translation>
+        <translation>너비:</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -5751,15 +5753,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Minimize Savebox after Editing</source>
-        <translation>Nach der Bildbearbeitung die Savebox minimieren</translation>
+        <translation type="unfinished">Nach der Bildbearbeitung die Savebox minimieren</translation>
     </message>
     <message>
         <source>Use the TLV Savebox to Limit Filling Operations</source>
-        <translation>Die TLV-Savebox benutzen um Füll-Operationen zu beschränken</translation>
+        <translation type="unfinished">Die TLV-Savebox benutzen um Füll-Operationen zu beschränken</translation>
     </message>
     <message>
         <source>Paper Thickness:</source>
-        <translation>Papier-Dicke:</translation>
+        <translation>종이 두께:</translation>
     </message>
     <message>
         <source>Enable Version Control *</source>
@@ -5767,27 +5769,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Default Level Type:</source>
-        <translation>Standard Ebenen-Format:</translation>
+        <translation>기본 레벨 타입:</translation>
     </message>
     <message>
         <source>Toonz Vector Level</source>
-        <translation></translation>
+        <translation>Toonz 벡터 레벨</translation>
     </message>
     <message>
         <source>Toonz Raster Level</source>
-        <translation></translation>
+        <translation>Toonz 래스터 레벨</translation>
     </message>
     <message>
         <source>Raster Level</source>
-        <translation></translation>
+        <translation>래스터 레벨</translation>
     </message>
     <message>
         <source>Autocreation:</source>
-        <translation>Automatisches Erstellen:</translation>
+        <translation>자동 생성:</translation>
     </message>
     <message>
         <source>Transparency Check</source>
-        <translation>Transparenz-Check</translation>
+        <translation>투명도 확인</translation>
     </message>
     <message>
         <source>   Ink Color on White Bg: </source>
@@ -5807,56 +5809,56 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>New Level Format</source>
-        <translation>Neues Ebenen-Format</translation>
+        <translation>새 레벨 형식</translation>
     </message>
     <message>
         <source>Assign the new level format name:</source>
-        <translation>Neuen Ebenen-Format-Namen zuordnen:</translation>
+        <translation>새 레벨 형식의 이름 지정:</translation>
     </message>
     <message>
         <source>New Format</source>
-        <translation>Neues Format</translation>
+        <translation>새 형식</translation>
     </message>
     <message>
         <source>Level Settings by File Format:</source>
-        <translation>Ebenen-Einstellungen nach Datei-Format:</translation>
+        <translation>파일 형식별 레벨 설정:</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Bearbeiten</translation>
+        <translation>편집</translation>
     </message>
     <message>
         <source>Xsheet</source>
-        <translation>Xsheet</translation>
+        <translation>타임 시트</translation>
     </message>
     <message>
         <source>Visualization</source>
-        <translation>Visualisierung</translation>
+        <translation>시각화</translation>
     </message>
     <message>
         <source>Show Lines with Thickness 0</source>
-        <translation>Linien mit Dicke 0 anzeigen</translation>
+        <translation>굵기가 0인 선 보기</translation>
     </message>
     <message>
         <source>Antialiased region boundaries</source>
         <translatorcomment>Kantenglättung an Bereichsrändern</translatorcomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next/Previous Step Frames:</source>
-        <translation>Nächster/Vorheriger Schritt-Frame</translation>
+        <translation>이전/다음 스텝 프레임:</translation>
     </message>
     <message>
         <source>Ignore Alpha Channel on Levels in Column 1</source>
-        <translation>Alpha-Kanal auf Ebenen in Spalte 1 ignorieren</translation>
+        <translation type="unfinished">Alpha-Kanal auf Ebenen in Spalte 1 ignorieren</translation>
     </message>
     <message>
         <source>pixel</source>
-        <translation>pixel</translation>
+        <translation>픽셀</translation>
     </message>
     <message>
         <source>Minimize Raster Memory Fragmentation *</source>
-        <translation>Raster-Speicher-Fragmentierung minimieren*</translation>
+        <translation>래스터 메모리 조각화 최소화 *</translation>
     </message>
     <message>
         <source>Replace Level after SaveLevelAs command</source>
@@ -5864,23 +5866,23 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>* Changes will take effect the next time you run Toonz</source>
-        <translation>*Änderungen werden wirksam beim nächsten Start von Toonz</translation>
+        <translation>* 다음 번에 Toonz를 실행하면 변경 사항이 적용됩니다</translation>
     </message>
     <message>
         <source>Move Current Frame by Clicking on Xsheet / Numerical Columns Cell Area</source>
-        <translation>Beim clicken auf das Xsheet oder den Funktions-Editor wird der aktuelle Frame verschoben</translation>
+        <translation type="unfinished">Beim clicken auf das Xsheet oder den Funktions-Editor wird der aktuelle Frame verschoben</translation>
     </message>
     <message>
         <source>Enable Actual Pixel View on Scene Editing Mode</source>
-        <translation>Im Szene-Bearbeitungs-Modus die tatsächliche Bildgröße der Pixel anzeigen</translation>
+        <translation>장면 편집 모드에서 실제 픽셀 보기 사용</translation>
     </message>
     <message>
         <source>Display Level Name on Each Marker</source>
-        <translation>An jedem Marker den Ebenen-Namen anzeigen</translation>
+        <translation>각 표시기마다 레벨명 표시</translation>
     </message>
     <message>
         <source>Show Raster Images Darken Blended in Camstand View</source>
-        <translation>In der Kamera-Stand-Ansicht die Raster-Bilder (dunkel gemischt) anzeigen</translation>
+        <translation type="unfinished">In der Kamera-Stand-Ansicht die Raster-Bilder (dunkel gemischt) anzeigen</translation>
     </message>
     <message>
         <source>Show &quot;ABC&quot;  to the Frame Number in Xsheet Cell</source>
@@ -5888,7 +5890,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Automatically Remove Scene Number from Loaded Level Name</source>
-        <translation>Die Szenen-Nummer automatisch von geladenen Ebenen-Namen entfernen</translation>
+        <translation>불러온 레벨명에서 장면 번호 자동 삭제</translation>
     </message>
     <message>
         <source>Multi Layer Style Picker : Switch Levels by Picking</source>
@@ -5896,23 +5898,23 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Onion Skin ON</source>
-        <translation>Onion Skin verwenden</translation>
+        <translation>어니언 스킨 켜기</translation>
     </message>
     <message>
         <source>Enable Version Control*</source>
-        <translation>Versionskontrolle aktivieren*</translation>
+        <translation>버전 관리 사용*</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation>Kategorie</translation>
+        <translation>카테고리</translation>
     </message>
     <message>
         <source>Undo Memory Size (MB)</source>
-        <translation>Speichergröße (MB) zurücksetzen</translation>
+        <translation>메모리 크기 실행 취소 (MB)</translation>
     </message>
     <message>
         <source>Icon Size *</source>
-        <translation>Icon-Größe *</translation>
+        <translation>아이콘 크기 *</translation>
     </message>
     <message>
         <source>X</source>
@@ -5920,83 +5922,83 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Viewer  Shrink</source>
-        <translation>Betrachter schrumpfen</translation>
+        <translation type="unfinished">Betrachter schrumpfen</translation>
     </message>
     <message>
         <source>Step</source>
-        <translation>Schritt</translation>
+        <translation>스텝</translation>
     </message>
     <message>
         <source>Viewer BG Color</source>
-        <translation>Betrachter Hintergrundfarbe</translation>
+        <translation type="unfinished">Betrachter Hintergrundfarbe</translation>
     </message>
     <message>
         <source>Preview BG Color</source>
-        <translation>Vorschau Hintergrundfarbe</translation>
+        <translation>배경 색상 미리 보기</translation>
     </message>
     <message>
         <source>ChessBoard Color 1</source>
-        <translation>Schachbrett-Farbe 1</translation>
+        <translation type="unfinished">Schachbrett-Farbe 1</translation>
     </message>
     <message>
         <source>Chessboard Color 2</source>
-        <translation>Schachbrett-Farbe 2</translation>
+        <translation type="unfinished">Schachbrett-Farbe 2</translation>
     </message>
     <message>
         <source>Viewer Zoom Center</source>
-        <translation>Betrachter-Zoom-Zentrum</translation>
+        <translation type="unfinished">Betrachter-Zoom-Zentrum</translation>
     </message>
     <message>
         <source>Language *:</source>
-        <translation>Sprache*:</translation>
+        <translation>언어 *:</translation>
     </message>
     <message>
         <source>Default TLV Caching Behavior</source>
-        <translation>Standard TLV-Caching-Verhalten</translation>
+        <translation>TLV 기본 캐시</translation>
     </message>
     <message>
         <source>Column Icon</source>
-        <translation>Spalten-Icon</translation>
+        <translation>칼럼 아이콘</translation>
     </message>
     <message>
         <source>  Height:</source>
-        <translation>Höhe:</translation>
+        <translation>  높이:</translation>
     </message>
     <message>
         <source>Default Interpolation:</source>
-        <translation>Standard Keyframe-Interpolation:</translation>
+        <translation>기본 보간법:</translation>
     </message>
     <message>
         <source>Following Frames Correction:</source>
-        <translation>Farbe der folgenden Frames:</translation>
+        <translation>다음 프레임 색상:</translation>
     </message>
     <message>
         <source>Previous  Frames Correction:</source>
-        <translation>Farbe der vorherigen Frames:</translation>
+        <translation>이전 프레임 색상:</translation>
     </message>
     <message>
         <source>Ink Color on White Bg:</source>
-        <translation>Linien-Farbe auf weißem Hintergrund:</translation>
+        <translation>흰 배경 위의 선의 색상:</translation>
     </message>
     <message>
         <source>Ink Color on Black Bg:</source>
-        <translation>Linien-Farbe auf schwarzem Hintergrund:</translation>
+        <translation>검은 배경 위의 선의 색상:</translation>
     </message>
     <message>
         <source>Paint Color:</source>
-        <translation>Flächen-Farbe:</translation>
+        <translation>그림 색상:</translation>
     </message>
     <message>
         <source>On Demand</source>
-        <translation>Bei Bedarf</translation>
+        <translation>필요 시</translation>
     </message>
     <message>
         <source>All Icons</source>
-        <translation>Alle Icons laden</translation>
+        <translation>모든 아이콘</translation>
     </message>
     <message>
         <source>All Icons &amp; Images</source>
-        <translation>Alle Icons und Bilder laden</translation>
+        <translation>모든 아이콘과 이미지</translation>
     </message>
     <message>
         <source>At Once</source>

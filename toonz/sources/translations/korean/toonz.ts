@@ -3002,219 +3002,219 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation>Vorschau (&amp;P)</translation>
+        <translation>미리보기 (&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Save Previewed Frames</source>
-        <translation>Vorschau-Frames speichern (&amp;S)</translation>
+        <translation>미리본 프레임 저장 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Regenerate Preview</source>
-        <translation>Vorschau neu berechnen (&amp;R)</translation>
+        <translation>미리보기 재생성 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Regenerate Frame Preview</source>
-        <translation>Vorschau neu berechnen（nur aktueller Frame）(&amp;R)</translation>
+        <translation>프레임 미리보기 재생성(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Clone Preview</source>
-        <translation>Vorschau clonen (&amp;C)</translation>
+        <translation>미리보기 복제 (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Freeze//Unfreeze Preview</source>
-        <translation>Vorschau pausieren//abspielen (&amp;F)</translation>
+        <translation>미리보기 얼리기//녹이기 (&amp;F)</translation>
     </message>
     <message>
         <source>Freeze Preview</source>
-        <translation>Vorschau pausieren</translation>
+        <translation>미리보기 얼리기</translation>
     </message>
     <message>
         <source>Unfreeze Preview</source>
-        <translation>Vorschau abspielen</translation>
+        <translation>미리보기 녹이기</translation>
     </message>
     <message>
         <source>&amp;Save As Preset</source>
-        <translation>Als Vorgabe speichern (&amp;S)</translation>
+        <translation>프리셋으로 저장 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Preferences...</source>
-        <translation>Voreinstellungen (&amp;P)...</translation>
+        <translation>선호 (&amp;P)...</translation>
     </message>
     <message>
         <source>&amp;Configure Shortcuts...</source>
-        <translation>Tastenkürzel konfigurieren (&amp;C)...</translation>
+        <translation>바로가기 설정 (&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Print Xsheet</source>
-        <translation>Xsheet drucken (als html??) (&amp;P)</translation>
+        <translation>Xsheet 출력 (&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Print Current Frame...</source>
-        <translation>Aktuellen Frame drucken (&amp;P)...</translation>
+        <translation>현재 프레임 출력 (&amp;P)...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>Schließen (&amp;Q)</translation>
+        <translation>취소 (&amp;Q)</translation>
     </message>
     <message>
         <source>&amp;Select All</source>
-        <translation>Alles wählen (&amp;S)</translation>
+        <translation>모두 선택 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Invert Selection</source>
-        <translation>Auswahl invertieren (&amp;I)</translation>
+        <translation>선택 변환 (&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>Rückgängig (&amp;U)</translation>
+        <translation>방금 전 작업 취소(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>Wiederholen (&amp;R)</translation>
+        <translation>취소한 전 작업 복구(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Cut</source>
-        <translation>Ausschneiden (&amp;C)</translation>
+        <translation>자르기(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>Kopieren (&amp;C)</translation>
+        <translation>복사 (&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="vanished">Einfügen</translation>
+        <translation type="vanished">붙여넣기</translation>
     </message>
     <message>
         <source>&amp;Merge</source>
-        <translation>Vereinen (&amp;M)</translation>
+        <translation>병합(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Paste Into</source>
-        <translation>Einfügen in (&amp;P)</translation>
+        <translation>..에 붙여넣기(&amp;P)</translation>
     </message>
     <message>
         <source>Paste RGBA Values</source>
-        <translation type="vanished">RGBA-Werte einfügen</translation>
+        <translation type="vanished">RGBA 값 붙여넣기</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>Löschen (&amp;D)</translation>
+        <translation>삭제(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>Einfügen (&amp;I)</translation>
+        <translation>삽입(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>Gruppieren (&amp;G)</translation>
+        <translation>그룹(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Ungroup</source>
-        <translation>Gruppierung auflösen (&amp;U)</translation>
+        <translation>그룹 해체(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Bring to Front</source>
-        <translation>Nach Vorner bringen (&amp;B)</translation>
+        <translation>맨 앞으로 가져오기(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Bring Forward</source>
-        <translation>Ein Schritt nach Vorne (&amp;B)</translation>
+        <translation>앞으로 가져오기(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Send Back</source>
-        <translation>Nach Hinten schicken (&amp;S)</translation>
+        <translation>맨 뒤로 보내기(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Send Backward</source>
-        <translation>Einen Schritt nach Hinten (&amp;S)</translation>
+        <translation>뒤로 보내기(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Enter Group</source>
-        <translation>Gruppenbearbeitung einschalten (&amp;E)</translation>
+        <translation>그룹에 들어가기(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Exit Group</source>
-        <translation>Gruppenbearbeitung ausschalten (&amp;E)</translation>
+        <translation>그룹에서 나가기(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Remove Vector Overflow</source>
-        <translation>Vektor-Overflow entfernen (&amp;R)</translation>
+        <translation>벡터 오버플로우 삭제(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Define Scanner...</source>
-        <translation>Scanner bestimmen (&amp;D)...</translation>
+        <translation>스캐너 정의(&amp;D)...</translation>
     </message>
     <message>
         <source>&amp;Scan Settings...</source>
-        <translation>Scan-Einstellungen (&amp;S)...</translation>
+        <translation>스캔 설정(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Scan</source>
-        <translation>Scannen (&amp;S)</translation>
+        <translation>스캔 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Set Cropbox</source>
-        <translation>Cropbox-Einstellungen (&amp;S)</translation>
+        <translation>Cropbox 설정 (&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Reset Cropbox</source>
-        <translation>Cropbox zurücksetzen (&amp;R)</translation>
+        <translation>Cropbox 재설정 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Cleanup Settings...</source>
-        <translation>Säuberungs-Einstellungen (&amp;C)...</translation>
+        <translation>클린업 설정 (&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Preview Cleanup</source>
-        <translation>Vorschau säubern (&amp;P)</translation>
+        <translation>클린업 미리보기(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Camera Test</source>
-        <translation>Kamera-Test (&amp;C)</translation>
+        <translation>카메라 테스트(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Cleanup</source>
-        <translation>Säubern (&amp;C)</translation>
+        <translation>클린업(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Add Frames...</source>
-        <translation>Frames hinzufügen (&amp;A)...</translation>
+        <translation>프레임 추가(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Renumber...</source>
-        <translation>Nummerieren (&amp;R)...</translation>
+        <translation>번호 다시 매기기(&amp;R)...</translation>
     </message>
     <message>
         <source>&amp;Replace Level...</source>
-        <translation>Ebene ersetzen (&amp;R)...</translation>
+        <translation>레벨 교체 (&amp;R)...</translation>
     </message>
     <message>
         <source>&amp;Revert to Cleaned Up</source>
-        <translation>Zum Gesäuberten zurücksetzen (&amp;R)</translation>
+        <translation>클린업 상태로 복귀(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Revert to Last Saved Version</source>
-        <translation>Zur zuletzt gespeicherten Version zurücksetzen (&amp;R)</translation>
+        <translation>마지막으로 저장된 버전으로 복귀(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Expose in Xsheet</source>
-        <translation>Xsheet-Inhalt aufstellen (&amp;E)</translation>
+        <translation>Xsheet에 드러내기 (&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Display in Level Strip</source>
-        <translation>In Ebenen-Betrachter ansehen (&amp;D)</translation>
+        <translation>레벨 스트립에 출력 (&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Level Settings...</source>
-        <translation>Ebenen-Einstellungen (&amp;L)...</translation>
+        <translation>레벨 설정&amp;L)...</translation>
     </message>
     <message>
         <source>&amp;Brightness and Contrast...</source>
-        <translation>Helligkeit und Kontrast (&amp;B)...</translation>
+        <translation>밝기와 대비(&amp;B)...</translation>
     </message>
     <message>
         <source>&amp;Color Fade...</source>
-        <translation>Farbblende (&amp;C)...</translation>
+        <translation>컬러 페이드 (&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Capture</source>
@@ -3222,31 +3222,31 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Canvas Size...</source>
-        <translation>Arbeitsfläche (&amp;C)...</translation>
+        <translation>캔버스 크기 (&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Info...</source>
-        <translation>Datei-Information (&amp;I)...</translation>
+        <translation>정보 (&amp;I)...</translation>
     </message>
     <message>
         <source>&amp;View...</source>
-        <translation>Als Flipbook ansehen (&amp;V)...</translation>
+        <translation>보기 (&amp;V)...</translation>
     </message>
     <message>
         <source>&amp;Remove All Unused Levels</source>
-        <translation>Alle ungenutzten Ebenen entfernen (&amp;R)</translation>
+        <translation>사용되지 않은 레벨 모두 제거 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Scene Settings...</source>
-        <translation>Szenen-Einstellungen (&amp;S)...</translation>
+        <translation>씬 설정 (&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Camera Settings...</source>
-        <translation>Kamera-Einstellungen (&amp;C)...</translation>
+        <translation>카메라 설정 (&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Open Sub-xsheet</source>
-        <translation>Sub-Xsheet öffnen (&amp;O)</translation>
+        <translation>Sub-Xsheet 열기 (&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Close Sub-xsheet</source>

@@ -4,8 +4,8 @@
 <context>
     <name>AddFilmstripFramesPopup</name>
     <message>
-        <source>Add Frames</source>
-        <translation>Frames hinzufügen</translation>
+        <source>Add frames</source>
+        <translation>프레임 추가</translation>
     </message>
     <message>
         <source>From Frame:</source>

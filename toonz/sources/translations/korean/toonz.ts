@@ -2022,300 +2022,301 @@ before color designing.</source>
     <message>
         <source>File %1 already exists.
 Do you want to overwrite it?</source>
-        <translation type="vanished">Die Datei %1 existiert bereits.
-Möchten Sie sie überschreiben?</translation>
+        <translation>%1 파일이 이미 존재합니다.
+덮어 쓰시겠습니까?</translation>
     </message>
 </context>
 <context>
     <name>FlipBook</name>
     <message>
         <source>Flipbook</source>
-        <translation type="unfinished"></translation>
+        <translation>플립 북</translation>
     </message>
     <message>
         <source>The file name cannot be empty or contain any of the following characters:(new line)  \ / : * ? &quot;  |</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 이름에 빈칸이나 다음 문자가 올 수 없습니다:(new line)  \ / : * ? &quot;	|</translation>
     </message>
     <message>
         <source>It is not possible to save because the selected file format is not supported.</source>
-        <translation type="unfinished">Es kann nicht gespeichert werden, da das gewählte Datei-Format nicht unterstützt wird.</translation>
+        <translation>선택된 파일 형식은 지원되지 않아 저장할 수 없습니다.</translation>
     </message>
     <message>
         <source>File %1 already exists.
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 파일이 이미 존재합니다.
+덮어쓰시겠습니까?</translation>
     </message>
     <message>
         <source>It is not possible to save Flipbook content.</source>
-        <translation type="unfinished"></translation>
+        <translation>플립 북 컨텐츠를 저장할 수 없습니다.</translation>
     </message>
     <message>
         <source>Saved %1 frames out of %2 in %3</source>
-        <translation type="unfinished">%1 Frames von %2 wurden in %3 gespeichert</translation>
+        <translation>%3에서 %2중 %1 프레임을 저장했습니다.</translation>
     </message>
     <message>
         <source>There are no rendered images to save.</source>
-        <translation type="unfinished">Es gibt keine gerenderten Bilder zum speichern.</translation>
+        <translation>저장할 렌더링 된 이미지가 없습니다.</translation>
     </message>
     <message>
         <source>It is not possible to take or compare snapshots for Toonz vector levels.</source>
-        <translation type="unfinished">Es ist nicht möglich Snapshots von Toonz Vektor-Ebenen zu erstellen oder zu vergleichen.</translation>
+        <translation>Toonz vector levels의 스냅샷을 찍거나 비교할 수 없습니다.</translation>
     </message>
     <message>
         <source>Rendered Frames  ::  From %1 To %2  ::  Step %3</source>
-        <translation type="unfinished"></translation>
+        <translation>렌더링된 프레임 :: %1에서 %2  ::  %3단계</translation>
     </message>
     <message>
         <source>  ::  Shrink </source>
-        <translation type="unfinished">::Schrumpfen</translation>
+        <translation>::  수축</translation>
     </message>
 </context>
 <context>
     <name>FormatSettingsPopup</name>
     <message>
         <source>File Settings</source>
-        <translation>Datei-Einstellungen</translation>
+        <translation>파일 설정</translation>
     </message>
 </context>
 <context>
     <name>FrameHeadGadget</name>
     <message>
         <source>Current Frame</source>
-        <translation>Aktueller Frame</translation>
+        <translation>최근 프레임</translation>
     </message>
     <message>
         <source>Relative Onion Skin Toggle</source>
-        <translation type="vanished">Relative Onion Skin Umschaltung</translation>
+        <translation>상대적 어니언스킨 토글</translation>
     </message>
     <message>
         <source>Fixed Onion Skin Toggle</source>
-        <translation>Feste Onion Skin Umschaltung</translation>
+        <translation>수정된 어니언스킨 토글</translation>
     </message>
 </context>
 <context>
     <name>FxParamEditorPopup</name>
     <message>
         <source>Fx Settings</source>
-        <translation>Effekt-Einstellungen</translation>
+        <translation>Fx 설정</translation>
     </message>
 </context>
 <context>
     <name>ImageViewer</name>
     <message>
         <source>FlipboOk Histogram</source>
-        <translation type="vanished">Flipbook Histogramm</translation>
+        <translation>플립북 막대 그래프</translation>
     </message>
     <message>
         <source>Clone Preview</source>
-        <translation>Vorschau klonen</translation>
+        <translation>복제본 미리보기</translation>
     </message>
     <message>
         <source>Unfreeze Preview</source>
-        <translation>Vorschau fortführen</translation>
+        <translation>미리보기 해제</translation>
     </message>
     <message>
         <source>Freeze Preview</source>
-        <translation>Vorschau pausieren</translation>
+        <translation>미리보기 고정</translation>
     </message>
     <message>
         <source>Regenerate Preview</source>
-        <translation>Vorschau neu berechnen</translation>
+        <translation>미리보기 재생</translation>
     </message>
     <message>
         <source>Regenerate Frame Preview</source>
-        <translation>Vorschau neu berechnen（nur aktueller Frame）</translation>
+        <translation>프레임 미리보기 재생</translation>
     </message>
     <message>
         <source>Reset View</source>
-        <translation>Ansicht zurücksetzen</translation>
+        <translation>보기 초기화</translation>
     </message>
     <message>
         <source>Fit To Window</source>
-        <translation>Ansicht an Fenster anpassen</translation>
+        <translation>창 맞추기</translation>
     </message>
     <message>
         <source>Exit Full Screen Mode</source>
-        <translation>Vollbild-Modus aufheben</translation>
+        <translation>전체화면 해제</translation>
     </message>
     <message>
         <source>Full Screen Mode</source>
-        <translation>Vollbild-Modus</translation>
+        <translation>전체화면</translation>
     </message>
     <message>
         <source>Load Images</source>
-        <translation type="vanished">Bilder öffnen</translation>
+        <translation>이미지 불러오기</translation>
     </message>
     <message>
         <source>Append Images</source>
-        <translation type="vanished">Bilder hinzufügen</translation>
+        <translation>이미지 추가</translation>
     </message>
     <message>
         <source>Save Images</source>
-        <translation>Bilder speichern</translation>
+        <translation>이미지 저장</translation>
     </message>
     <message>
         <source>Show Histogram</source>
-        <translation>Histogramm anzeigen</translation>
+        <translation>막대그래프 보이기</translation>
     </message>
     <message>
         <source>Swap Compared Images</source>
-        <translation>Verglichene Bilder tauschen</translation>
+        <translation>비교된 이미지와 바꾸기</translation>
     </message>
     <message>
         <source>  ::  Zoom : </source>
-        <translation>:: Vergrößerung:</translation>
+        <translation>:: 크기조절:</translation>
     </message>
     <message>
         <source>Load / Append Images</source>
-        <translation>Bild laden/hinzufügen</translation>
+        <translation>불러오기 / 이미지 추가</translation>
     </message>
     <message>
         <source>Flipbook Histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>플립북 막대그래프</translation>
     </message>
 </context>
 <context>
     <name>ImportMagpieFilePopup</name>
     <message>
         <source>Import Magpie File</source>
-        <translation>MAGPIE-Datei importieren</translation>
+        <translation>Magpie 파일 가져오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source>%1 does not exist.</source>
-        <translation>%1 existiert nicht.</translation>
+        <translation>%1 는 존재하지 않습니다.</translation>
     </message>
 </context>
 <context>
     <name>InbetweenDialog</name>
     <message>
         <source>Inbetween</source>
-        <translation>Inbetween</translation>
+        <translation>사이에</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation>Linear</translation>
+        <translation>선형</translation>
     </message>
     <message>
         <source>Ease In</source>
-        <translation>Ease In</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Ease Out</source>
-        <translation>Ease Out</translation>
+        <translation type = "unfinished">Ease Out</translation>
     </message>
     <message>
         <source>Ease In / Ease Out</source>
-        <translation>Ease In/Ease Out</translation>
+        <translation type = "unfinished">Ease In/Ease Out</translation>
     </message>
     <message>
         <source>Interpolation:</source>
-        <translation>Interpolation:</translation>
+        <translation>주석:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
 </context>
 <context>
     <name>InsertFxPopup</name>
     <message>
         <source>FX Browser</source>
-        <translation>Neue Effekt</translation>
-    </message>
+        <translation>Fx 브라우저</translation>
+   </message>
     <message>
         <source>Insert</source>
-        <translation>Einfügen</translation>
+        <translation>삽입</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hinzufügen</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Ersetzen</translation>
+        <translation>바꾸다</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation>Makro</translation>
+        <translation>매크로</translation>
     </message>
     <message>
         <source>Remove Macro FX</source>
-        <translation>Makro-Effekt löschen</translation>
+        <translation>매크로 Fx 삭제</translation>
     </message>
     <message>
         <source>Remove Preset</source>
-        <translation>Preset löschen</translation>
+        <translation>사전설정 삭제</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation>예</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nein</translation>
+        <translation>아니오</translation>
     </message>
     <message>
         <source>Are you sure you want to delete %1?</source>
-        <translation>Möchten Sie wirklich %1 löschen?</translation>
+        <translation>정말 %1 을 삭제 하시겠습니까?</translation>
     </message>
     <message>
         <source>It is not possible to delete %1.</source>
-        <translation>%1 kann nicht gelöscht werden.</translation>
+        <translation>%1 을 삭제할 수 없습니다.</translation>
     </message>
 </context>
 <context>
     <name>LevelCreatePopup</name>
     <message>
         <source>New Level</source>
-        <translation>Neue Ebene</translation>
+        <translation>새 표준</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>이름:</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>Zu Frame:</translation>
+        <translation>다음까지:</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Von Frame:</translation>
+        <translation>여기서부터:</translation>
     </message>
     <message>
         <source>Increment:</source>
-        <translation>Inkrement:</translation>
+        <translation>증가:</translation>
     </message>
     <message>
         <source>Step:</source>
-        <translation>Schritt:</translation>
+        <translation>차례:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translation>형식:</translation>
     </message>
     <message>
         <source>Save in:</source>
-        <translation type="vanished">Speichern in:</translation>
+        <translation>저장:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Breite:</translation>
+        <translation>폭:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Höhe:</translation>
+        <translation>높이:</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="vanished">Erstellen</translation>
+        <translation>만들기</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>DPI:</source>
@@ -2323,108 +2324,108 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>No level name specified: please choose a valid level name</source>
-        <translation>Der Name der Ebene wurde nicht festgelegt: Bitte einen gültigen Namen wählen.</translation>
+        <translation>레벨 이름이 지정되지 않았습니다. 유효한 레벨 이름을 선택해 주세요.</translation>
     </message>
     <message>
         <source>Invalid frame range</source>
-        <translation>Ungültiger Frame-Bereich</translation>
+        <translation>유효하지 않은 프레임 범위</translation>
     </message>
     <message>
         <source>Invalid step value</source>
-        <translation>Ungültiger Schritt-Wert</translation>
+        <translation>유효하지 않은 단계 값</translation>
     </message>
     <message>
         <source>The level name specified is already used: please choose a different level name</source>
-        <translation>Der Name der Ebene wird bereits benutzt: Bitte einen anderen Namen wählen.</translation>
+        <translation>이 레벨 이름은 이미 존재합니다. 다른 이름으로 선택하세요.</translation>
     </message>
     <message>
         <source>Folder %1 doesn&apos;t exist.
 Do you want to create it?</source>
-        <translation>Ordner %1 existiert nicht.
-Möchten Sie einen erstellen?</translation>
+        <translation>%1 폴더가 존재하지 않습니다.
+새로 만드시겠습니까?</translation>
     </message>
     <message>
         <source>Unable to create</source>
-        <translation>Es konnte nicht erstellt werden.</translation>
+        <translation>생성 불가능</translation>
     </message>
     <message>
         <source>Invalid increment value</source>
-        <translation>Ungültiges Inkrement</translation>
+        <translation>유효하지 않은 증가값</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ok</translation>
+        <translation>네</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>적용</translation>
     </message>
     <message>
         <source>Save In:</source>
-        <translation>Speichern in:</translation>
+        <translation>저장:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>네</translation>
     </message>
 </context>
 <context>
     <name>LevelSettingsPopup</name>
     <message>
         <source>Level Settings</source>
-        <translation>Ebenen-Einstellungen</translation>
+        <translation>레벨 설정</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>이름:</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation>Pfad:</translation>
+        <translation>경로:</translation>
     </message>
     <message>
         <source>Scan Path:</source>
-        <translation>Scan-Pfad:</translation>
+        <translation>스캔 경로:</translation>
     </message>
     <message>
         <source>Forced Squared Pixel</source>
-        <translation>Rechteckige Pixel erzwingen</translation>
+        <translation>강제 제곱 픽셀</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Breite:</translation>
+        <translation>폭:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Höhe:</translation>
+        <translation>너비:</translation>
     </message>
     <message>
         <source>Use Camera DPI</source>
-        <translation>Kamera-DPI verwenden</translation>
+        <translation>카메라 DPI 사용</translation>
     </message>
     <message>
         <source>Camera DPI:</source>
-        <translation>Kamera-DPI:</translation>
+        <translation>카메라 DPI:</translation>
     </message>
     <message>
         <source>Image DPI:</source>
-        <translation>Bild-DPI:</translation>
+        <translation>이미지 DPI:</translation>
     </message>
     <message>
         <source>Image Resolution:</source>
-        <translation type="vanished">Bildauflösung:</translation>
+        <translation>이미지 해상도:</translation>
     </message>
     <message>
         <source>Premultiply</source>
-        <translation>Premultiply [Schwarz-Matte]</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>White As Transparent</source>
-        <translation>Weiß als transparent</translation>
+        <translation>흰색을 투명하게</translation>
     </message>
     <message>
         <source>      Subsampling:</source>
-        <translation type="vanished">Subsampling:</translation>
+        <translation>서브샘플링:</translation>
     </message>
     <message>
         <source>DPI:</source>
@@ -2432,31 +2433,31 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>The file %1 is not a sound level.</source>
-        <translation>Die Datei %1 ist keine Ton-Ebene.</translation>
+        <translation>%1 파일은 소리형식이 아닙니다.</translation>
     </message>
     <message>
         <source>Add Antialiasing</source>
-        <translation>Kantenglättung hinzufügen</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Antialias Softness:</source>
-        <translation>Kantenglättung-Weichheit:</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Subsampling:</source>
-        <translation>Subsampling:</translation>
+        <translation>서브 샘플링:</translation>
     </message>
     <message>
         <source>Name &amp;&amp; Path</source>
-        <translation>Ebenen-Name und Datei-Pfad</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>DPI &amp;&amp; Resolution</source>
-        <translation>DPI der Auflösung</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation>Auflösung:</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Resolution</source>
@@ -2467,272 +2468,272 @@ Möchten Sie einen erstellen?</translation>
     <name>LineTestCapturePane</name>
     <message>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>이름:</translation>
     </message>
     <message>
         <source>Frame:</source>
-        <translation></translation>
+        <translation>프레임:</translation>
     </message>
     <message>
         <source>Increment:</source>
-        <translation>Inkrement:</translation>
+        <translation>추가::</translation>
     </message>
     <message>
         <source>Step:</source>
-        <translation>Schritt:</translation>
+        <translation>차례:</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation>Modus:</translation>
+        <translation>모드:</translation>
     </message>
     <message>
         <source>New     </source>
-        <translation>Neu    </translation>
+        <translation>새것    </translation>
     </message>
     <message>
         <source>Overwite     </source>
-        <translation>Überschreiben    </translation>
+        <translation>덮어쓰기    </translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Einfügen</translation>
+        <translation>삽입</translation>
     </message>
     <message>
         <source> Onion Skin  </source>
-        <translation> Onion Skin  </translation>
+        <translation> 어니언 스킨  </translation>
     </message>
     <message>
         <source> View Frame</source>
-        <translation> Frame anzeigen</translation>
+        <translation> 프레임 보기</translation>
     </message>
     <message>
         <source>Fade:</source>
-        <translation>Blende:</translation>
+        <translation>명조:</translation>
     </message>
     <message>
         <source> Connection</source>
-        <translation> Verbindung</translation>
+        <translation> 연결</translation>
     </message>
     <message>
         <source>       Capture       </source>
-        <translation>       Capture     </translation>
+        <translation>       캡쳐     </translation>
     </message>
     <message>
         <source>Capture Settings</source>
-        <translation>Capture-Einstellungen</translation>
+        <translation>캡쳐 설정</translation>
     </message>
     <message>
         <source>   File Settings    </source>
-        <translation>   Datei-Einstellungen    </translation>
+        <translation>   파일 설정    </translation>
     </message>
     <message>
         <source>Bad Selection.</source>
-        <translation>Die Auswahl ist ungültig.</translation>
+        <translation>잘못된 선택.</translation>
     </message>
     <message>
         <source>No Device Defined.</source>
-        <translation>Kein Gerät wurde definiert.</translation>
+        <translation>정의된 장치가 없음.</translation>
     </message>
     <message>
         <source>Cannot connect Camera</source>
-        <translation>Kann Kamera nicht verbinden</translation>
+        <translation>카메라와 연결할 수 없음</translation>
     </message>
     <message>
         <source>Device Disconnected.</source>
-        <translation>Ein Gerät wurde getrennt.</translation>
+        <translation>장치 연결끊김.</translation>
     </message>
     <message>
         <source>LineTest Capture</source>
-        <translation>LineTest Capture</translation>
+        <translation type = "unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LineTestPane</name>
     <message>
         <source>Untitled</source>
-        <translation>Unbenannt</translation>
+        <translation>제목없음</translation>
     </message>
     <message>
         <source>Scene: </source>
-        <translation>Szene:</translation>
+        <translation>장면:</translation>
     </message>
     <message>
         <source>   ::   Frame: </source>
-        <translation>:: Frame:</translation>
+        <translation>:: 프레임:</translation>
     </message>
     <message>
         <source>   ::   Level: </source>
-        <translation>:: Ebene:</translation>
+        <translation>:: 형식:</translation>
     </message>
     <message>
         <source>Level: </source>
-        <translation>Ebene:</translation>
+        <translation>형식:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Vorschau</translation>
+        <translation>미리보기</translation>
     </message>
 </context>
 <context>
     <name>LinesFadePopup</name>
     <message>
         <source>Color Fade</source>
-        <translation>Farb-Blende</translation>
+        <translation>색깔 명조</translation>
     </message>
     <message>
         <source>Fade:</source>
-        <translation>Blende:</translation>
+        <translation>명조:</translation>
     </message>
     <message>
         <source>Intensity:</source>
-        <translation>Intensität:</translation>
+        <translation>강조:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation></translation>
+        <translation>적용</translation>
     </message>
 </context>
 <context>
     <name>LoadColorModelPopup</name>
     <message>
         <source>Load Color Model</source>
-        <translation>Farbmodell laden</translation>
+        <translation>색깔 모델 불러오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source>Palette from Frame:</source>
-        <translation type="vanished">Palette von Frame:</translation>
+        <translation>프레임에서 팔레트:</translation>
     </message>
     <message>
         <source>Frames :</source>
-        <translation>Frame :</translation>
+        <translation>프레임 :</translation>
     </message>
 </context>
 <context>
     <name>LoadCurvePopup</name>
     <message>
         <source>Load Curve</source>
-        <translation>Effekt-Parameter importieren</translation>
+        <translation>부하 곡선</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>불러오기</translation>
     </message>
 </context>
 <context>
     <name>LoadFolderPopup</name>
     <message>
         <source>Load Folder</source>
-        <translation>Ordner laden</translation>
+        <translation>폴더 불러오기</translation>
     </message>
 </context>
 <context>
     <name>LoadImagesPopup</name>
     <message>
         <source>Load Images</source>
-        <translation>Bild öffnen</translation>
+        <translation>이미지 불러오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Öffnen</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source>Append Images</source>
-        <translation type="vanished">Bild hinzufügen</translation>
+        <translation>이미지 추가</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Von Frame:</translation>
+        <translation>여기서부터:</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>Zu Frame:</translation>
+        <translation>다음까지:</translation>
     </message>
     <message>
         <source>Step:</source>
-        <translation>Schritt:</translation>
+        <translation>단계:</translation>
     </message>
     <message>
         <source>Shrink:</source>
-        <translation>Schrumpfen:</translation>
+        <translation>수축:</translation>
     </message>
     <message>
         <source>Append</source>
-        <translation>Hinzufügen</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <source>Load / Append Images</source>
-        <translation>Bild laden/hinzufügen</translation>
+        <translation>불러오기 / 이미지 추가</translation>
     </message>
 </context>
 <context>
     <name>LoadLevelPopup</name>
     <message>
         <source>On Demand</source>
-        <translation></translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>All Icons</source>
-        <translation></translation>
+        <translation>모든 아이콘</translation>
     </message>
     <message>
         <source>All Icons &amp; Images</source>
-        <translation></translation>
+        <translation>모든 아이콘 이미지 &amp;</translation>
     </message>
     <message>
         <source>Load Level</source>
-        <translation>Ebene importieren</translation>
+        <translation>형식 불러오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source>%1 does not exist.</source>
-        <translation type="vanished">%1 existiert nicht.</translation>
+        <translation>%1 는 존재하지 않습니다.</translation>
     </message>
     <message>
         <source>TLV Caching Behavior</source>
-        <translation>TLV-Bild-Daten-Cache</translation>
+        <translation>TLV 캐시동작</translation>
     </message>
     <message>
         <source>Load Subsequence Level</source>
-        <translation>Sub-Frame importieren</translation>
+        <translation>서브시퀀스 형식 불러오기</translation>
     </message>
     <message>
         <source>Arrangement in Xsheet</source>
-        <translation>Anordnung im Xsheet</translation>
+        <translation>Xsheet 속 배열</translation>
     </message>
     <message>
         <source>(FILE DOES NOT EXIST)</source>
-        <translation>（Datei existiert nicht）</translation>
+        <translation>（파일이 존재하지 않음）</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Von:</translation>
+        <translation>여기까지:</translation>
     </message>
     <message>
-        <source> To:</source>
-        <translation>Bis:</translation>
+        <source> to:</source>
+        <translation>다음부터:</translation>
     </message>
     <message>
         <source> Step:</source>
-        <translation>Schritte:</translation>
+        <translation>단계:</translation>
     </message>
     <message>
         <source> Inc:</source>
-        <translation>Inkrement der Bildnummer:</translation>
+        <translation>사진번호 증가:</translation>
     </message>
     <message>
         <source>Level Name:</source>
-        <translation>Name der Ebene:</translation>
+        <translation>형식 이름:</translation>
     </message>
     <message>
         <source> Frames:</source>
-        <translation>Frame-Bereich:</translation>
+        <translation>프레임:</translation>
     </message>
     <message>
         <source>::</source>
@@ -2743,261 +2744,263 @@ Möchten Sie einen erstellen?</translation>
     <name>LoadScenePopup</name>
     <message>
         <source>Load Scene</source>
-        <translation>Szene laden</translation>
+        <translation>장면 불러오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Öffnen</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source> is not a scene file.</source>
-        <translation> ist keine Szenen-Datei.</translation>
+        <translation> 장면 파일이 아닙니다.</translation>
     </message>
     <message>
         <source> does not exist.</source>
-        <translation> existiert nicht.</translation>
+        <translation> 존재하지 않음.</translation>
     </message>
 </context>
 <context>
     <name>LoadSettingsPopup</name>
     <message>
         <source>Load Cleanup Settings</source>
-        <translation>Säuberungs-Einstellungen laden</translation>
+        <translation>정리 설정 불러오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source>%1 does not exist.</source>
-        <translation>%1 existiert nicht.</translation>
+        <translation>%1 은 존재하지 않음.</translation>
     </message>
 </context>
 <context>
     <name>LoadSubScenePopup</name>
     <message>
         <source>Load Sub-Xsheet</source>
-        <translation>Sub-Szene importieren</translation>
+        <translation>서브 Xsheet 불러오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source> is not a scene file.</source>
-        <translation> ist keine Szenen-Datei.</translation>
+        <translation> 장면 파일이 아닙니다.</translation>
     </message>
     <message>
         <source> does not exist.</source>
-        <translation> existiert nicht.</translation>
+        <translation> 존재하지 않음.</translation>
     </message>
 </context>
 <context>
     <name>LoadTaskListPopup</name>
     <message>
         <source>Load Task List</source>
-        <translation>Aufgabe-Liste öffnen</translation>
+        <translation>작업 목록 불러오기</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Öffnen</translation>
+        <translation>불러오기</translation>
     </message>
     <message>
         <source> does not exist.</source>
-        <translation> existiert nicht.</translation>
+        <translation> 존재하지 않음.</translation>
     </message>
     <message>
         <source>It is possible to load only TNZBAT files.</source>
-        <translation>Es können nur TNZBAT-Dateien geladen werden.</translation>
+        <translation>오직 TNZBAT 파일만 불러올 수 있습니다.</translation>
     </message>
 </context>
 <context>
     <name>LoadTaskPopup</name>
     <message>
         <source>Add</source>
-        <translation>Hinzufügen</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <source> does not exist.</source>
-        <translation> existiert nicht.</translation>
+        <translation> 존재하지 않음.</translation>
     </message>
     <message>
         <source>Add Render Task to Batch List</source>
-        <translation>Render-Aufgabe zur Batchliste hinzufügen</translation>
+        <translation>일괄 목록에 렌더 작업 추가</translation>
     </message>
     <message>
         <source>Add Cleanup Task to Batch List</source>
-        <translation>Säubernungs-Aufgabe zur Batchliste hinzufügen</translation>
+        <translation>일괄 목록에 정리 작업 추가</translation>
     </message>
     <message>
         <source>%1 is not a TNZ file.</source>
-        <translation type="vanished">%1 ist keine TNZ-Datei.</translation>
+        <translation>%1 은 TNZ 파일이 아님.</translation>
     </message>
     <message>
         <source> you can load only TNZ files for render task.</source>
-        <translation> Sie können nur TNZ-Dateien für Render-Aufgaben laden.</translation>
+        <translation> 렌더작업에는 오직 TNZ 파일만 불러올 수 있습니다.</translation>
     </message>
     <message>
         <source> you can load only TNZ or CLN files for cleanup task.</source>
-        <translation> Sie können nur TNZ- oder CLN-Dateien für Säuberungs-Aufgaben laden.</translation>
+        <translation> 정리 작업에는 오직 TNZ 파일이나 CLN 파일만 불러올 수 있습니다.</translation>
     </message>
 </context>
 <context>
     <name>LocatorPopup</name>
     <message>
         <source>Locator</source>
-        <translation type="unfinished"></translation>
+        <translation>경계 설정</translation>
     </message>
 </context>
 <context>
     <name>MagpieFileImportPopup</name>
     <message>
         <source>Import Magpie File</source>
-        <translation>MAGPIE-Datei laden</translation>
+        <translation>Magpie 파일 임포트</translation>
     </message>
     <message>
         <source>Frame Range</source>
-        <translation>Frame-Bereich</translation>
+        <translation>프레임 범위</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>Zu Frame:</translation>
+        <translation>다음부터:</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Von Frame:</translation>
+        <translation>여기까지:</translation>
     </message>
     <message>
         <source>Animation Level</source>
-        <translation>Ebene</translation>
+        <translation>애니메이션 형식</translation>
     </message>
     <message>
         <source>Level:</source>
-        <translation>Ebene:</translation>
+        <translation>형식:</translation>
     </message>
     <message>
         <source>Phoneme</source>
-        <translation>Phonem</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Laden</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>The file path is missing.</source>
-        <translation>Der Datei-Pfad ist unbekannt.</translation>
+        <translation>파일 경로가 잘못 지정되었습니다.</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Cannot delete</source>
-        <translation>Kann nicht löschen</translation>
+        <translation>삭제할 수 없음</translation>
     </message>
     <message>
         <source>Visit Web Site</source>
-        <translation type="vanished">Webseite öffnen</translation>
+        <translation>웹사이트 방문</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Abbrechen</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>&amp;New Scene</source>
-        <translation>Neue Szene (&amp;N)</translation>
+        <translation>새 장면 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Load Scene...</source>
-        <translation>Szene laden (&amp;L)...</translation>
+        <translation>장면 불러오기 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Save Scene</source>
-        <translation>Szene speichern (&amp;S)</translation>
+        <translation>장면 저장 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Save Scene As...</source>
-        <translation>Szene speichern als (&amp;S)...</translation>
+        <translation>다른이름으로 장면 저장 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Revert Scene</source>
-        <translation>Szene zurücksetzen (&amp;R)</translation>
+        <translation>장면 되돌리기 (&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Open Recent Scene File</source>
-        <translation>Vorherige Szene laden (&amp;O)</translation>
+        <translation>최근 장면파일 열기(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Open Recent Level File</source>
-        <translation>Vorherige Ebene laden (&amp;O)</translation>
+        <translation>최근 형식파일 열기 (&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Clear Recent Scene File List</source>
-        <translation>Liste der vorherigen Szenen leeren (&amp;C)</translation>
+        <translation>최근 장면파일 목록 지우기 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Clear Recent level File List</source>
-        <translation>Liste der vorherigen Ebenen leeren (&amp;C)</translation>
+        <translation>최근 형식 파일 목록 지우기 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;New Level...</source>
-        <translation>Neue Ebene (&amp;N)...</translation>
+        <translation>새 형식 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Load Level...</source>
-        <translation>Ebene importieren (&amp;L)...</translation>
+        <translation>형식 불러오기(&amp;L)...</translation>
     </message>
     <message>
         <source>&amp;Save Level</source>
-        <translation>Ebene speichern (&amp;S)</translation>
+        <translation>형식 저장 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Save Level As...</source>
-        <translation>Ebene speichern als (&amp;S)...</translation>
+        <translation>다른이름으로 형식 저장 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Export Level...</source>
-        <translation>Ebene exportieren (&amp;E)...</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>&amp;Save Palette As...</source>
-        <translation>Palette speichern (&amp;S)...</translation>
+        <translation>다른 이름으로 팔레트 저장(&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Save Palette</source>
-        <translation>.</translation>
+        <translation>팔레트 저장</translation>
     </message>
     <message>
         <source>&amp;Load Color Model...</source>
-        <translation>Farbmodell importieren (&amp;L)...</translation>
+        <translation>색깔 모델 불러오기 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Import Magpie File...</source>
-        <translation>MAGPIE-Datei importieren (&amp;I)...</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>&amp;New Project...</source>
-        <translation>Neues Projekt (&amp;N)...</translation>
+        <translation>새 프로젝트(&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Project Settings...</source>
-        <translation>Projekt-Einstellungen (&amp;P)...</translation>
+        <translation>프로젝트 설정 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Save Default Settings</source>
-        <translation>Aktuelle Szenen-Einstellungen als standard Projekt-Einstellungen speichern (&amp;S)</translation>
+        <translation>초기설정 저장 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Output Settings...</source>
-        <translation>Output-Einstellungen (&amp;O)...</translation>
+        <translation>설정 출력 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Preview Settings...</source>
-        <translation>Vorschau-Einstellungen (&amp;P)...</translation>
+        <translation>설정 미리보기 (&amp;)...</translation>
     </message>
+
+   </message>
     <message>
         <source>&amp;Render</source>
         <translation>Render (&amp;R)</translation>
@@ -3252,751 +3255,751 @@ Möchten Sie einen erstellen?</translation>
     </message>
     <message>
         <source>&amp;Close Sub-xsheet</source>
-        <translation>Sub-Xsheet schließen (&amp;C)</translation>
+        <translation>서브 Xsheet 닫기 (&amp;C)</translation>
     </message>
     <message>
         <source>Explode Sub-xsheet</source>
-        <translation>Sub-Xsheet ausbreiten</translation>
+        <translation>서브 Xsheet 폭발</translation>
     </message>
     <message>
         <source>Collapse</source>
-        <translation>Sub-Xsheet einklappen</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>&amp;Save Sub-xsheet As...</source>
-        <translation>Sub-Xsheet speichern als (&amp;S)...</translation>
+        <translation>다른이름으로 서브 Xsheet 저장(&amp;)...</translation>
     </message>
     <message>
         <source>Resequence</source>
-        <translation>Sub-Xsheet-Frames umordnen</translation>
+        <translation>순서 재구성</translation>
     </message>
     <message>
         <source>Clone Sub-xsheet</source>
-        <translation>Sub-Xsheet clonen</translation>
+        <translation>서브 Xsheet 복사</translation>
     </message>
     <message>
         <source>&amp;Apply Match Lines...</source>
-        <translation>Match-Linien anwenden (&amp;A)...</translation>
+        <translation>매치라인 적용 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Delete Match Lines</source>
-        <translation>Match-Linien löschen (&amp;D)</translation>
+        <translation>매치라인 삭제(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Delete Lines...</source>
-        <translation>Linien löschen (&amp;D)...</translation>
+        <translation>라인 지우기 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Merge Levels</source>
-        <translation>Ebenen vereinen (&amp;M)</translation>
+        <translation>형식 병합 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;New FX...</source>
-        <translation>Neuer Effekt (&amp;N)...</translation>
+        <translation>새 Fx (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;New Output</source>
-        <translation>Neuer Output-Node (&amp;N)</translation>
+        <translation>새 출력 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Edit FX...</source>
-        <translation>Effekt bearbeiten (&amp;E)...</translation>
+        <translation>Fx 편집 (&amp;)...</translation>
     </message>
     <message>
         <source>Insert Frame</source>
-        <translation>Frame einfügen</translation>
+        <translation>프레임 삽입</translation>
     </message>
     <message>
         <source>Remove Frame</source>
-        <translation>Frame löschen</translation>
+        <translation>프레임 삭제</translation>
     </message>
     <message>
         <source>Insert Multiple Keys</source>
-        <translation>Multiple Keys einfügen</translation>
+        <translation>다중 키 삽입</translation>
     </message>
     <message>
         <source>Remove Multiple Keys</source>
-        <translation>Multiple Keys löschen</translation>
+        <translation>다중 키 삭제</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
-        <translation>Umkehren (&amp;R)</translation>
+        <translation>반전 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Swing</source>
-        <translation>Swing (&amp;S)</translation>
+        <translation>스윙 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Random</source>
-        <translation>Zufällig (&amp;R)</translation>
+        <translation>랜덤 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Autoexpose</source>
-        <translation>Automatische Anordnung (&amp;A)</translation>
+        <translation>자동 노출 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Repeat...</source>
-        <translation>Wiederholen (&amp;R)...</translation>
+        <translation>반복 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Step 2</source>
-        <translation>Schritt 2 (&amp;S)</translation>
+        <translation> 2단계 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Step 3</source>
-        <translation>Schritt 3 (&amp;S)</translation>
+        <translation> 3단계 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Step 4</source>
-        <translation>Schritt 4 (&amp;S)</translation>
+        <translation>4단계 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Each 2</source>
-        <translation>Jedes 2. (&amp;E)</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>&amp;Each 3</source>
-        <translation>Jedes 3. (&amp;E)</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>&amp;Each 4</source>
-        <translation>Jedes 4. (&amp;E)</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>&amp;Roll Up</source>
-        <translation>Hoch rollen (&amp;R)</translation>
+        <translation>감기 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Roll Down</source>
-        <translation>Runter rollen (&amp;R)</translation>
+        <translation>풀기 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Time Stretch...</source>
-        <translation>Zeit-Ausdehnung (&amp;T)...</translation>
+        <translation>시간 펴기 (&amp;)...</translation>
     </message>
     <message>
         <source>&amp;Duplicate Drawing  </source>
-        <translation>Zeichnung duplizieren (&amp;D) </translation>
+        <translation>그림 복제 (&amp;) </translation>
     </message>
     <message>
         <source>&amp;Clone</source>
-        <translation>Clonen (&amp;C)</translation>
+        <translation>복사 (&amp;)</translation>
     </message>
     <message>
         <source>Drawing Substitution Forward</source>
-        <translation></translation>
+        <translation>앞 대체물 그리기</translation>
     </message>
     <message>
         <source>Drawing Substitution Backward</source>
-        <translation></translation>
+        <translation>뒷 대체물 그리기</translation>
     </message>
     <message>
         <source>Similar Drawing Substitution Forward</source>
-        <translation></translation>
+        <translation>비슷한 앞 대체물 그리기</translation>
     </message>
     <message>
         <source>Similar Drawing Substitution Backward</source>
-        <translation></translation>
+        <translation>비슷한 뒷 대체물 그리기</translation>
     </message>
     <message>
         <source>&amp;Set Key</source>
-        <translation>Key setzen (&amp;S)</translation>
+        <translation>키 설정 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Camera Box</source>
-        <translation>Kamera-Box (&amp;C)</translation>
+        <translation>카메라 박스 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Table</source>
-        <translation>Tabelle (&amp;T)</translation>
+        <translation>테이블 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Field Guide</source>
-        <translation>Praktische Anleitung (&amp;F)</translation>
+        <translation>바탕 안내 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Safe Area</source>
-        <translation>Sicherer Bereich (&amp;S)</translation>
+        <translation>안전 구역(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Camera BG Color</source>
-        <translation>Kamera-Hintergrundfarbe (&amp;C)</translation>
+        <translation>카메라 바탕색(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Transparency Check  </source>
-        <translation>Transparenz-Check (&amp;T)</translation>
+        <translation>투명도 선택 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Ink Check</source>
-        <translation>Tinten-Check (&amp;I)</translation>
+        <translation>잉크 선택 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Paint Check</source>
-        <translation>Farb-Check (&amp;P)</translation>
+        <translation>페인트 선택 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Fill Check</source>
-        <translation>Füll-Check (&amp;F)</translation>
+        <translation>채우기 선택 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Black BG Check</source>
-        <translation>Hintergrund Schwarz-Check (&amp;B)</translation>
+        <translation>검은 바탕 선택(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Gap Check</source>
-        <translation>Lücken-Check (&amp;G)</translation>
+        <translation>사이 틈 선택 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Visualize Vector As Raster</source>
-        <translation>Vektor-Bild als Raster einzeigen (&amp;V)</translation>
+        <translation>벡터를 래스터로 시각화 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Histogram</source>
-        <translation>Histogramm (&amp;H)</translation>
+        <translation>막대 그래프 (&amp;)</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>Abspielen</translation>
+        <translation>실행</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation>Als Schleife abspielen</translation>
+        <translation>반복</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation>Pausieren</translation>
+        <translation>일시정지</translation>
     </message>
     <message>
         <source>First Frame</source>
-        <translation>Erster Frame</translation>
+        <translation>첫 프레임</translation>
     </message>
     <message>
         <source>Last Frame</source>
-        <translation>Letzter Frame</translation>
+        <translation>마지막 프레임</translation>
     </message>
     <message>
         <source>Previous Frame</source>
-        <translation>Vorheriger Frame</translation>
+        <translation>이전 프레임</translation>
     </message>
     <message>
         <source>Next Frame</source>
-        <translation>Nächster Frame</translation>
+        <translation>다음 프레임</translation>
     </message>
     <message>
         <source>Red Channel</source>
-        <translation>Roter Kanal</translation>
+        <translation>붉은 채널</translation>
     </message>
     <message>
         <source>Green Channel</source>
-        <translation>Grüner Kanal</translation>
+        <translation>초록 채널</translation>
     </message>
     <message>
         <source>Blue Channel</source>
-        <translation>Blauer Kanal</translation>
+        <translation>파랑 채널</translation>
     </message>
     <message>
         <source>Matte Channel</source>
-        <translation>Alpha</translation>
+        <translation>무광택 채널</translation>
     </message>
     <message>
         <source>Red Channel Greyscale</source>
-        <translation>Roter Kanal (Grauton)</translation>
+        <translation>붉은색 음영</translation>
     </message>
     <message>
         <source>Green Channel Greyscale</source>
-        <translation>Grüner Kanal (Grauton)</translation>
+        <translation>초록색 음영</translation>
     </message>
     <message>
         <source>Blue Channel Greyscale</source>
-        <translation>Blauer Kanal (Grauton)</translation>
+        <translation>파란색 음영</translation>
     </message>
     <message>
         <source>&amp;Lock Room Panes</source>
-        <translation>Arbeitsfläche sperren (&amp;L)</translation>
+        <translation>룸 판 잠그기(&amp;)</translation>
     </message>
     <message>
         <source>&amp;File Browser</source>
-        <translation>Datei-Browser (&amp;F)</translation>
+        <translation>파일 브라우저 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;FlipboOk</source>
-        <translation type="vanished">Flipbook (&amp;F)</translation>
+        <translation>플립 북 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Function Editor</source>
-        <translation>Funktions-Editor (&amp;F)</translation>
+        <translation>함수 편집기 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Level Strip</source>
-        <translation>Ebenen-Betrachter (&amp;L)</translation>
+        <translation>형식 조각 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Palette</source>
-        <translation>Palette (&amp;P)</translation>
+        <translation>팔레트 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Palette Gizmo</source>
-        <translation>Palette bearbeiten (&amp;P)</translation>
+        <translation>팔레트 기즈모 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Delete Unused Styles</source>
-        <translation>Ungenutzte Stile löschen (&amp;D)</translation>
+        <translation>사용되지 않은 형식 지우기 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Tasks</source>
-        <translation>Aufgaben (&amp;T)</translation>
+        <translation>작업 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Batch Servers</source>
-        <translation>Batch-Server (&amp;B)</translation>
+        <translation>배치 서버 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Color Model</source>
-        <translation>Farbmodell (&amp;C)</translation>
+        <translation>색깔 모델 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Studio Palette</source>
-        <translation>Studio-Palette (&amp;S)</translation>
+        <translation>스튜디오 팔레트 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Schematic</source>
-        <translation>Schaubild (&amp;S)</translation>
+        <translation>개략도 (&amp;)</translation>
     </message>
     <message>
         <source>Toggle FX/Stage schematic</source>
-        <translation></translation>
+        <translation>토글 Fx/스테이지 개략도</translation>
     </message>
     <message>
         <source>&amp;Scene Cast</source>
-        <translation>Szenen-Asset (&amp;S)</translation>
+        <translation>장면 캐스트 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Style Editor</source>
-        <translation>Stil-Editor (&amp;S)</translation>
+        <translation>스타일 편집기 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Toolbar</source>
-        <translation>Werkzeugleiste (&amp;T)</translation>
+        <translation>툴바(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Tool Option Bar</source>
-        <translation>Werkzeug-Optionen (&amp;T)</translation>
+        <translation>툴 옵션 바 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Viewer</source>
-        <translation>Betrachter (&amp;V)</translation>
+        <translation>뷰어 (&amp;)</translation>
     </message>
     <message>
         <source>&amp;LineTest Capture</source>
-        <translation>&lt;------&gt;</translation>
+        <translation type = "unfinished">라인테스트 캡쳐</translation>
     </message>
     <message>
         <source>&amp;LineTest Viewer</source>
-        <translation>&lt;------&gt;</translation>
+        <translation type = "unfinished">라인테스트 뷰어</translation>
     </message>
     <message>
         <source>&amp;Xsheet</source>
-        <translation>Xsheet (&amp;X)</translation>
+        <translation>Xsheet (&amp;)</translation>
     </message>
     <message>
         <source>&amp;Reset to Default Rooms</source>
-        <translation>Arbeitsfläche zurücksetzen (&amp;R)</translation>
+        <translation>초기 룸으로 초기화(&amp;)</translation>
     </message>
     <message>
         <source>Onion Skin</source>
-        <translation type="vanished">Onion Skin</translation>
+        <translation>어니언 스킨</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation>Duplizieren</translation>
+        <translation>복제</translation>
     </message>
     <message>
         <source>Show Folder Contents</source>
-        <translation>Ordner-Inhalt anzeigen</translation>
+        <translation>폴더 컨텐츠 보이기</translation>
     </message>
     <message>
         <source>Convert...</source>
-        <translation>Datei umwandeln...</translation>
+        <translation>변형</translation>
     </message>
     <message>
         <source>Collect Assets</source>
-        <translation>Assets sammeln</translation>
+        <translation>어셋 수집</translation>
     </message>
     <message>
         <source>Import Scene</source>
-        <translation>Szene aus anderem Projekt importieren</translation>
+        <translation>장면 임포트</translation>
     </message>
     <message>
         <source>Export Scene...</source>
-        <translation>Szene exportieren...</translation>
+        <translation>장면 익스포트</translation>
     </message>
     <message>
         <source>Premultiply</source>
-        <translation type="vanished">Premultiply [Schwarz-Matte]</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Convert to Vectors...</source>
-        <translation>Zu Vektoren umwandeln...</translation>
+        <translation>벡터로 변형하기...</translation>
     </message>
     <message>
         <source>Tracking...</source>
-        <translation>Tracking...</translation>
+        <translation>추적...</translation>
     </message>
     <message>
         <source>Remove Level</source>
-        <translation>Ebene löschen</translation>
+        <translation>형식 삭제</translation>
     </message>
     <message>
         <source>Add As Render Task</source>
-        <translation>Als Render-Aufgabe hinzufügen</translation>
+        <translation>렌더 작업으로 추가하기</translation>
     </message>
     <message>
         <source>Add As Cleanup Task</source>
-        <translation>Als Säuberungs-Aufgabe hinzufügen</translation>
+        <translation>삭제 작업으로 추가하기</translation>
     </message>
     <message>
         <source>Select All Keys in this Frame</source>
-        <translation>Alle Keys in dieser Frame</translation>
+        <translation>프레임 안의 모든 키 선택</translation>
     </message>
     <message>
         <source>Select All Keys in this Column</source>
-        <translation>Alle Keys in dieser Spalte wählen</translation>
+        <translation>단 안의 모든 키 선택</translation>
     </message>
     <message>
         <source>Select All Keys</source>
-        <translation>Alle Keys wählen</translation>
+        <translation>모든 키 선택</translation>
     </message>
     <message>
         <source>Select All Following Keys</source>
-        <translation>Alle nachfolgenden Keys wählen</translation>
+        <translation>모든 다음의 키를 선택</translation>
     </message>
     <message>
         <source>Select All Previous Keys</source>
-        <translation>Alle vorhergehenden Keys wählen</translation>
+        <translation>모든 이전의 키를 선택</translation>
     </message>
     <message>
         <source>Select Previous Keys in this Column</source>
-        <translation>Alle vorherigen Keys in dieser Spalte wählen</translation>
+        <translation>단 안의 이전 키 선택</translation>
     </message>
     <message>
         <source>Select Following Keys in this Column</source>
-        <translation>Alle nachfolgenden Keys in dieser Spalte wählen</translation>
+        <translation>단 안의 다음 키 선택</translation>
     </message>
     <message>
         <source>Select Previous Keys in this Frame</source>
-        <translation>Alle vorherigen Keys in dieser Frame</translation>
+        <translation>프레임안의 이전 키 선택</translation>
     </message>
     <message>
         <source>Select Following Keys in this Frame</source>
-        <translation>Alle nachfolgenden Keys in dieser Frame</translation>
+        <translation>프레임 안의 다음 키 선택</translation>
     </message>
     <message>
         <source>Invert Key Selection</source>
-        <translation>Key-Auswahl umkehren</translation>
+        <translation>키 선택 반전</translation>
     </message>
     <message>
         <source>Set Acceleration</source>
-        <translation>Beschleunigung einstellen</translation>
+        <translation>가속 설정</translation>
     </message>
     <message>
         <source>Set Deceleration</source>
-        <translation>Verzögerung einstellen</translation>
+        <translation>감속 설정</translation>
     </message>
     <message>
         <source>Set Constant Speed</source>
-        <translation>Konstantes Tempo einstellen</translation>
+        <translation>일정 속도 설정</translation>
     </message>
     <message>
         <source>Reset Interpolation</source>
-        <translation>Interpolation zurücksetzen</translation>
+        <translation>보간법 초기화</translation>
     </message>
     <message>
         <source>Fold Column</source>
-        <translation>Spalte verstecken</translation>
+        <translation>칼럼 접기</translation>
     </message>
     <message>
         <source>Activate this column only</source>
-        <translation type="vanished">Nur diese Spalte aktivieren</translation>
+        <translation>오직 이 칼럼만 가동</translation>
     </message>
     <message>
         <source>Activate selected columns</source>
-        <translation type="vanished">Gewählte Spalten aktivieren</translation>
+        <translation>선택된 칼럼 가동</translation>
     </message>
     <message>
         <source>Activate all columns</source>
-        <translation type="vanished">Alle Spalten aktivieren</translation>
+        <translation>모든 칼럼 가동</translation>
     </message>
     <message>
         <source>Deactivate selected columns</source>
-        <translation type="vanished">Gewählte Spalten deaktivieren</translation>
+        <translation>선택된 칼럼 정지</translation>
     </message>
     <message>
         <source>Deactivate all columns</source>
-        <translation type="vanished">Alle Spalten deaktivieren</translation>
+        <translation>모든 칼럼 정지</translation>
     </message>
     <message>
         <source>Toggle columns activation</source>
-        <translation type="vanished">Spalten-Ansicht umschalten</translation>
+        <translation>토글 칼럼 가동</translation>
     </message>
     <message>
         <source>Enable this column only</source>
-        <translation type="vanished">Nur diese Spalte aktivieren</translation>
+        <translation>오직 이 칼럼만 가동 가능</translation>
     </message>
     <message>
         <source>Enable selected columns</source>
-        <translation type="vanished">Gewählte Spalte aktivieren</translation>
+        <translation>선택된 칼럼만 가동 가능</translation>
     </message>
     <message>
         <source>Enable all columns</source>
-        <translation type="vanished">Alle Spalten aktivieren</translation>
+        <translation>모든 칼럼 가동 가능</translation>
     </message>
     <message>
         <source>Disable all columns</source>
-        <translation type="vanished">Alle Spalten deaktivieren</translation>
+        <translation>모든 칼럼 사용 불가능</translation>
     </message>
     <message>
         <source>Disable selected columns</source>
-        <translation type="vanished">Gewählte Spalten deaktivieren</translation>
+        <translation>선택된 칼럼 사용 불가능</translation>
     </message>
     <message>
         <source>Swap enabled columns</source>
-        <translation type="vanished">Aktivierte Spalten tauschen</translation>
+        <translation>스왑 가능한 칼럼</translation>
     </message>
     <message>
         <source>Lock this column only</source>
-        <translation type="vanished">Nur diese Spalte sperren</translation>
+        <translation>이 칼럼만 잠그기</translation>
     </message>
     <message>
         <source>Lock selected columns</source>
-        <translation type="vanished">Gewählte Spalten sperren</translation>
+        <translation>선택된 칼럼 잠그기</translation>
     </message>
     <message>
         <source>Lock all columns</source>
-        <translation type="vanished">Alle Spalten sperren</translation>
+        <translation>모든 칼럼 잠그기</translation>
     </message>
     <message>
         <source>Unlock selected columns</source>
-        <translation type="vanished">Gewählte Spalten entsperren</translation>
+        <translation>선택된 칼럼 잠금풀기</translation>
     </message>
     <message>
         <source>Unlock all columns</source>
-        <translation type="vanished">Alle Spalten entsperren</translation>
+        <translation>모든 칼럼 잠금 풀기</translation>
     </message>
     <message>
         <source>Swap locked columns</source>
-        <translation type="vanished">Gesperrte Spalten tauschen</translation>
+        <translation>잠긴 칼럼 스왑</translation>
     </message>
     <message>
         <source>Edit Tool</source>
-        <translation>Bearbeitungstool</translation>
+        <translation>편집 툴</translation>
     </message>
     <message>
         <source>Selection Tool</source>
-        <translation>Auswahl-Tool</translation>
+        <translation>선택 툴</translation>
     </message>
     <message>
         <source>Brush Tool</source>
-        <translation>Pinsel-Tool</translation>
+        <translation>붓 툴</translation>
     </message>
     <message>
         <source>Geometric Tool</source>
-        <translation>Geometrisches Tool</translation>
+        <translation>기하 툴</translation>
     </message>
     <message>
         <source>Type Tool</source>
-        <translation>Schreib-Tool</translation>
+        <translation>형식 툴</translation>
     </message>
     <message>
         <source>Fill Tool</source>
-        <translation>Füll-Tool</translation>
+        <translation>채우기 툴</translation>
     </message>
     <message>
         <source>Fill Tool - Areas</source>
-        <translation></translation>
+        <translation>채우기 툴 - 지역</translation>
     </message>
     <message>
         <source>Fill Tool - Lines</source>
-        <translation></translation>
+        <translation>채우기 툴 - 선</translation>
     </message>
     <message>
         <source>Paint Brush Tool</source>
-        <translation>Farbpinsel-Tool</translation>
+        <translation>페인트 붓 툴</translation>
     </message>
     <message>
         <source>Eraser Tool</source>
-        <translation>Radierer-Tool</translation>
+        <translation>지우개 툴</translation>
     </message>
     <message>
         <source>Tape Tool</source>
-        <translation>Verbindungs-Tool</translation>
+        <translation>테이프 툴</translation>
     </message>
     <message>
         <source>Style Picker Tool</source>
-        <translation>Stil-Auswahl-Tool</translation>
+        <translation>형식 선택 툴</translation>
     </message>
     <message>
         <source>Style Picker Tool - Areas</source>
-        <translation></translation>
+        <translation>형식 선택 툴 - 지역</translation>
     </message>
     <message>
         <source>Style Picker Tool - Lines</source>
-        <translation></translation>
+        <translation>형식 선택 툴 - 선</translation>
     </message>
     <message>
         <source>RGB Picker Tool</source>
-        <translation>RGBStil-Auswahl-Tool</translation>
+        <translation>RGB 선택 툴</translation>
     </message>
     <message>
         <source>Control Point Editor Tool</source>
-        <translation>Pfad bearbeitungs-Tool</translation>
+        <translation>페인트 편집 툴 조작</translation>
     </message>
     <message>
         <source>Pinch Tool</source>
-        <translation>Distorsions-Tool</translation>
+        <translation>핀치 툴</translation>
     </message>
     <message>
         <source>Pump Tool</source>
-        <translation>Aufblas-Tool</translation>
+        <translation>펌프 툴</translation>
     </message>
     <message>
         <source>Magnet Tool</source>
-        <translation>Magnet-Tool</translation>
+        <translation>자석 툴</translation>
     </message>
     <message>
         <source>Bender Tool</source>
-        <translation>Verformen-Tool</translation>
+        <translation>벤더 툴</translation>
     </message>
     <message>
         <source>Iron Tool</source>
-        <translation>Eisen-Tool</translation>
+        <translation>철 툴</translation>
     </message>
     <message>
         <source>Cutter Tool</source>
-        <translation>Schneid-Tool</translation>
+        <translation>커터 툴</translation>
     </message>
     <message>
         <source>Skeleton Tool</source>
-        <translation>Skelett-Tool</translation>
+        <translation>스켈레톤 툴</translation>
     </message>
     <message>
         <source>Tracker Tool</source>
-        <translation>Tracker-Tool</translation>
+        <translation>트레커 툴</translation>
     </message>
     <message>
         <source>HoOk Tool</source>
-        <translation type="vanished">Haken-Tool</translation>
+        <translation>갈고리 툴</translation>
     </message>
     <message>
         <source>Zoom Tool</source>
-        <translation>Vergrößerungs-Tool</translation>
+        <translation>줌 툴</translation>
     </message>
     <message>
         <source>Rotate Tool</source>
-        <translation>Rotations-Tool</translation>
+        <translation>회전 툴</translation>
     </message>
     <message>
         <source>Hand Tool</source>
-        <translation>Hand-Tool</translation>
+        <translation>손 툴</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Vergrößerung [+]</translation>
+        <translation>줌 인</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Vergrößerung [-]</translation>
+        <translation>줌 아웃</translation>
     </message>
     <message>
         <source>Reset View</source>
-        <translation>Vergrößerung zurücksetzen</translation>
+        <translation>보기 초기화</translation>
     </message>
     <message>
         <source>Fit to Window</source>
-        <translation>Ansicht an Fenster anpassen</translation>
+        <translation>창 맞춤</translation>
     </message>
     <message>
         <source>Actual Pixel Size</source>
-        <translation>Tatsächliche Bildgröße</translation>
+        <translation>실제 픽셀 크기</translation>
     </message>
     <message>
         <source>Show//Hide Full Screen</source>
-        <translation>Vollbild anzeigen//verbergen</translation>
+        <translation>보기//전체화면 가리기</translation>
     </message>
     <message>
         <source>Full Screen Mode</source>
-        <translation>Vollbild-Modus</translation>
+        <translation>전체화면 모드</translation>
     </message>
     <message>
         <source>Exit Full Screen Mode</source>
-        <translation>Vollbild-Modus beenden</translation>
+        <translation>전체화면 나가기</translation>
     </message>
     <message>
         <source>Global Key</source>
-        <translation>Globale Keys</translation>
+        <translation>글로벌 키</translation>
     </message>
     <message>
         <source>Increase brush hardness</source>
-        <translation type="vanished">Pinselhärte erhöhen</translation>
+        <translation>붓 경도 상승</translation>
     </message>
     <message>
         <source>Decrease brush hardness</source>
-        <translation type="vanished">Pinselhärte verringern</translation>
+        <translation>붓 경도 하락</translation>
     </message>
     <message>
         <source>Auto Group</source>
-        <translation>Automatisches Gruppieren</translation>
+        <translation>자동 그룹</translation>
     </message>
     <message>
         <source>Break sharp angles</source>
-        <translation>Spitze Winkel spalten</translation>
+        <translation>예각 끊기</translation>
     </message>
     <message>
         <source>Frame range</source>
-        <translation>Frame-Bereich</translation>
+        <translation>프레임 범위</translation>
     </message>
     <message>
         <source>Inverse kinematics</source>
-        <translation>Inverse Kinematics (IK)</translation>
+        <translation type = "unfinished"></translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>Umkehren</translation>
+        <translation>거꾸로</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation>Manuell</translation>
+        <translation>메뉴얼</translation>
     </message>
     <message>
         <source>Onion skin</source>
-        <translation>Onion Skin</translation>
+        <translation>어니언 스킨</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Ausrichtung</translation>
+        <translation>오리엔테이션</translation>
     </message>
     <message>
         <source>Pencil Mode</source>
-        <translation>Bleistift-Modus</translation>
+        <translation>연필</translation>
     </message>
     <message>
         <source>Preserve Thickness</source>
-        <translation>Dicke erhalten</translation>
+        <translation>두께 유지</translation>
     </message>
     <message>
         <source>Pressure sensibility</source>
-        <translation type="vanished">Druckempfindlichkeit</translation>
+        <translation>압력 감각</translation>
     </message>
     <message>
         <source>Segment Ink</source>
-        <translation>Segmentierte Tinte</translation>
+        <translation>잉크 분할</translation>
     </message>
     <message>
         <source>Selective</source>
-        <translation>Farbe erhalten</translation>
+        <translation>선택</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation>Glätten</translation>
+        <translation>부드러움</translation>
     </message>
     <message>
         <source>Snap</source>

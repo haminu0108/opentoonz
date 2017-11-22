@@ -2999,8 +2999,6 @@ Do you want to create it?</source>
         <source>&amp;Preview Settings...</source>
         <translation>설정 미리보기 (&amp;)...</translation>
     </message>
-
-   </message>
     <message>
         <source>&amp;Render</source>
         <translation>Render (&amp;R)</translation>

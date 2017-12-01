@@ -288,6 +288,8 @@
   <item>"STD_noiseFx.Black_White"	"Black & White"	</item>
   <item>"STD_noiseFx.Animate"	"Random Animation"	</item>
 
+  <item>"STD_nothingFx"		"Pass Through"		</item>
+
   <item>"STD_paletteFilterFx"	"Palette Filter"	</item>
   <item>"STD_paletteFilterFx.keep"	"Action"	</item>
   <item>"STD_paletteFilterFx.type"	"Apply To"	</item>
@@ -1224,6 +1226,14 @@
   <item>"STD_iwa_BokehFx.distance5"		"Layer5 Distance"</item>
   <item>"STD_iwa_BokehFx.bokeh_adjustment5"	"Layer5 Bokeh Adjustment"</item>
   
+  <item>"STD_iwa_BokehRefFx"	"Bokeh Ref Iwa"</item>
+  <item>"STD_iwa_BokehRefFx.on_focus_distance"	"On-Focus Distance"</item>
+  <item>"STD_iwa_BokehRefFx.bokeh_amount"	"Bokeh Amount"</item>
+  <item>"STD_iwa_BokehRefFx.hardness"	"Hardness"</item>
+  <item>"STD_iwa_BokehRefFx.distance_precision"	"Distance Precision"</item>
+  <item>"STD_iwa_BokehRefFx.fill_gap"	"Fill Gap"</item>
+  <item>"STD_iwa_BokehRefFx.fill_gap_with_median_filter"	"Use Median Filter"</item>
+
   <item>"STD_iwa_TimeCodeFx"	"TimeCode Iwa"</item>
   <item>"STD_iwa_TimeCodeFx.displayType"	"Display Type"</item>
   <item>"STD_iwa_TimeCodeFx.frameRate"	"Frame Rate"</item>
